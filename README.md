@@ -1,6 +1,5 @@
 # Notes #
 
+1. [C#](csharp/README.md)
 <br>
-[C#](csharp/README.md)
-<br>
-[Java](java/README.md)
+2. [Java](java/README.md)
