@@ -1,7 +1,7 @@
 [XML Configuration File](https://docs.jboss.org/hibernate/orm/3.3/reference/en-US/html/session-configuration.html#configuration-xmlconfig)
 <br>
 <br>
-<span style="font-weight:bold;">*hibernate.cfg.xml*</span> 
+<span style="font-weight:bold;font-style:italic;">hibernate.cfg.xml</span> 
 ```xml
 <?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE hibernate-configuration PUBLIC
