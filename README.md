@@ -2,6 +2,6 @@
 
 [C#](csharp/README.md)
 <br>
-[Dev Docs](http://devdocs.io)
+[Dev Docs](https://devdocs.io)
 <br>
 [Java](java/README.md)
