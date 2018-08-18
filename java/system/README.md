@@ -4,5 +4,4 @@
     // Get users home directory
     System.getProperty("user.home");
 ```
-[OTHER SYSTEM PROPERTIES](https://docs.oracle.com/javase/tutorial/essential/environment/sysprop.html)
-<a href="http://example.com/" target="_blank">example</a>
+<a href="https://docs.oracle.com/javase/tutorial/essential/environment/sysprop.html" target="_blank">OTHER SYSTEM PROPERTIES</a>
