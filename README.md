@@ -1,5 +1,4 @@
-# notes
-*__Notes__*
+# __Notes__
 <br>
 [C#](csharp/README.md)
 <br>
