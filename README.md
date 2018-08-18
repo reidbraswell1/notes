@@ -1,6 +1,6 @@
 # notes
 Notes
 <br>
-[C# Notes](csharp/README.md)
+[C#](csharp/README.md)
 <br>
-[Java Notes](java/README.md)
+[Java](java/README.md)
