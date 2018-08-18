@@ -30,7 +30,7 @@ import java.util.Properties
 		}
 	}
 ```
-Gets properties file from your project classpath root folder.
+Get properties file from your project classpath root folder.
 ```java
    	Properties prop = new Properties();
     	InputStream input = null;
