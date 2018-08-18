@@ -1,4 +1,4 @@
 # Notes #
 
-1. [C#](csharp/README.md)
-2. [Java](java/README.md)
+[C#](csharp/README.md)
+[Java](java/README.md)
