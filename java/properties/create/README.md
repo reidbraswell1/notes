@@ -20,4 +20,12 @@ OutputStream output = null;
 	catch(Exception exc) {
 		exc.printStackTrace();
 	}
+	finally {
+		if (output != null) {
+			try {
+				output.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+	}
 ```
