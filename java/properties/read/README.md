@@ -38,7 +38,7 @@ Get properties file from your project classpath root folder.
     	try {
         
     		String filename = "config.properties";
-    		input = YourClass.class.getClassLoader().getResourceAsStream(filename);
+    		input = YourApp.class.getClassLoader().getResourceAsStream(filename);
     		if(input==null){
     	            System.out.println("Unable to find " + filename);
     		    return;
