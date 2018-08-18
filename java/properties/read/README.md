@@ -30,3 +30,34 @@ import java.util.Properties
 		}
 	}
 ```
+```java
+   	Properties prop = new Properties();
+    	InputStream input = null;
+    	
+    	try {
+        
+    		String filename = "config.properties";
+    		input = YourClass.class.getClassLoader().getResourceAsStream(filename);
+    		if(input==null){
+    	            System.out.println("Unable to find " + filename);
+    		    return;
+    		}
+
+    		//load a properties file from class path
+    		prop.load(input);
+ 
+                // get the property value
+                System.out.println(prop.getProperty("property"));
+ 
+    	} catch (IOException ex) {
+    		ex.printStackTrace();
+        } finally{
+        	if(input!=null){
+        		try {
+				input.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+        	}
+        }
+```
