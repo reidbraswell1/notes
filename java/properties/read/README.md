@@ -1,5 +1,5 @@
 ```java
-  Properties prop = new Properties();
+  	Properties prop = new Properties();
 	InputStream input = null;
 
 	try {
