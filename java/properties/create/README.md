@@ -5,8 +5,8 @@ import java.io.OutputStream;
 import java.util.Properties;
 ```
 ```java
-Properties prop = new Properties();
-OutputStream output = null;
+	Properties prop = new Properties();
+	OutputStream output = null;
 	try {
 
 		output = new FileOutputStream("config.properties");
