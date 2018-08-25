@@ -1,5 +1,5 @@
 1. [Add Remote Origin](https://help.github.com/articles/adding-a-remote/)
-2. [Create Branch](branch/README.md) 
+2. [Branch](branch/README.md) 
 3. Status
 ```shell
 $ git status
