@@ -9,3 +9,13 @@ $ git status
 On branch master
 nothing to commit, working tree clean
 ```
+4. Add new files to git
+```shell
+$ git add yourNewFile
+$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   yourNewFile
+```  
