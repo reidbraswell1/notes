@@ -1,6 +1,6 @@
 1. [Add Remote Origin](https://help.github.com/articles/adding-a-remote/)
 2. [Branch](branch/README.md) 
-3. Status
+3. [Status](status/README.md)
 ```shell
 $ git status
 On branch master
