@@ -6,4 +6,6 @@ $ git checkout -b [name_of_your_new_branch]
 3. Status
 ```shell
 $ git status
+On branch master
+nothing to commit, working tree clean
 ```
