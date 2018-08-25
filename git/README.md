@@ -2,7 +2,7 @@
 2. [Branch](branch/README.md) 
 3. [Status](status/README.md)
 4. [Log](log/README.md)
-4. Add new files to git
+4. [Add new file](add/README.md)
 ```shell
 $ git add yourNewFile
 $ git status
