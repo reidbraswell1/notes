@@ -1,12 +1,12 @@
 ### Various Methods of Writing the main method
-<p>
+<div>
 1. ##### Standard
 ```java
 public static void main(String[] args) {
     // Method Body
 }
 ```
-</p>
+</div>
 2. ##### Alternate notation
 ```java
 public static void main(String args[]){
