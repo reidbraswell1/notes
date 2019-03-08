@@ -14,6 +14,11 @@ class FieldsExamples {
             l=2;
             s="Hello World";
       }
+      
+      // Constructor
+      public FieldsExamples() {
+      
+      }
 }
 ```
 
