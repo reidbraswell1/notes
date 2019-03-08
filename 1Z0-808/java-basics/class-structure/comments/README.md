@@ -6,6 +6,7 @@
   
   // Valid
   // // comment
+  // /* comment */
 ```
 
 ##### Multi line comment
