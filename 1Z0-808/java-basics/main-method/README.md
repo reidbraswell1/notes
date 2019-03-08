@@ -1,11 +1,12 @@
 ### Various Methods of Writing the main method
-
+<p>
 1. ##### Standard
 ```java
 public static void main(String[] args) {
     // Method Body
 }
 ```
+</p>
 2. ##### Alternate notation
 ```java
 public static void main(String args[]){
