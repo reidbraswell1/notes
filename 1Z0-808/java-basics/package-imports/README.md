@@ -1,4 +1,4 @@
-### Declare a Package
+### Declare a Package & Import a Package
 
 ##### File written to disk looks like /home/a/A.java
 ```java
