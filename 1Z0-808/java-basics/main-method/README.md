@@ -5,7 +5,7 @@ public static void main(String[] args) {
     // Method Body
 }
 ```
-##### Will Compile But Not Run (main method must be public to run)
+##### <span style="color:red;">Will Compile But Not Run (main method must be public to run)</span>
 ```java
 static void main(String[] args) {
     // Method Body
