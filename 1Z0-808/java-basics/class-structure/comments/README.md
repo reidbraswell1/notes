@@ -19,4 +19,9 @@
   /*
   * // comment
   */
+  
+  // Invalid
+  /*
+  * /* comment */
+  */
 ```
