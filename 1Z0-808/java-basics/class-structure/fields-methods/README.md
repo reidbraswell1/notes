@@ -16,3 +16,31 @@ class FieldsExamples {
       }
 }
 ```
+
+### Java Methods
+```java
+class MethodsExamples {
+
+      private int i;
+      private int j;
+      
+      // Public Access
+      public int getI() {
+            return i; // Or return this.i
+      }
+      
+      // Default Package Access
+      int getJ() {
+            return j; // Or return this.j
+      }
+      
+      // Public Access
+      public void setI(int value) {
+            i=value; // Or this.i=value;
+      }
+      
+      // Default Package Access
+      void setJ(int value) {
+            j=value; // Or this.j=value;
+      }
+```
