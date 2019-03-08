@@ -6,7 +6,6 @@ public static void main(String[] args) {
     // Method Body
 }
 ```
-
 2. ##### Alternate notation
 ```java
 public static void main(String args[]){
