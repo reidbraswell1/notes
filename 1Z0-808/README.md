@@ -1,1 +1,7 @@
 1. [Java Basics](class-structure/README.md)
+2. [Operators & Statements]()
+3. [Core API's]()
+4. [Methods & Encapsulation]()
+5. [Class Design]()
+6. [Exceptions]()
+7. [Lambda's]()
