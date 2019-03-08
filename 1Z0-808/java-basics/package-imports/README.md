@@ -24,6 +24,7 @@ import packagea.*;
 public class B {
 
 }
+```
 
 ##### Static imports
 ```java
