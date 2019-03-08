@@ -1,6 +1,6 @@
 ### Various Methods of Writing the main method
 
-1.
+1. ##### Standard
 ```java
 public static void main(String[] args) {
     // Method Body
