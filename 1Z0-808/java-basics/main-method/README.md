@@ -6,6 +6,12 @@ public static void main(String[] args) {
 }
 ```
 ```java
+public static final void main(String[] args) {
+    // Method Body
+}
+```
+
+```java
 public static void main(String args[]){
     // Method Body
 }
