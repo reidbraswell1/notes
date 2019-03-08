@@ -6,6 +6,7 @@ public static void main(String[] args) {
 }
 ```
 
+#### varargs
 ```java
 public static void main(String ...args){
   // Method Body
