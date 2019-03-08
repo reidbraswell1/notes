@@ -15,6 +15,7 @@ import packagea.A;
 public class B {
 
 }
+```
 
 ##### Wild card notation
 ```java
