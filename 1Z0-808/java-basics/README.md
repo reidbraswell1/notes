@@ -1,1 +1,1 @@
-1. [Class Structure] (class-structure/README.md)
+1. [Class Structure](class-structure/README.md)
