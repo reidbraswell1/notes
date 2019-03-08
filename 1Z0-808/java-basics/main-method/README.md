@@ -5,6 +5,13 @@ public static void main(String[] args) {
     // Method Body
 }
 ```
+##### Will Compile But Not Run (main method must be public to run)
+```java
+static void main(String[] args) {
+    // Method Body
+}
+```
+
 ```java
 public static final void main(String[] args) {
     // Method Body
