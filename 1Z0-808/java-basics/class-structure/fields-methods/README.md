@@ -17,7 +17,7 @@ class FieldsExamples {
 }
 ```
 
-### Java Methods
+### Java Methods - Methods must have a return type or void if none.
 ```java
 class MethodsExamples {
 
