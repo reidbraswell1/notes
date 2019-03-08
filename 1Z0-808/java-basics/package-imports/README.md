@@ -29,6 +29,8 @@ public class B {
 ##### Static imports
 ```java
 package c;
+// Note that out is a static variable that is imported
+// Alternate notation import static java.lang.System.*
 import static java.lang.System.out;
 public class C {
 
