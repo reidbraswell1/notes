@@ -5,8 +5,14 @@ public static void main(String[] args) {
     // Method Body
 }
 ```
+```java
+public static void main(String args[]){
+    // Method Body
+}
+```
 
-#### varargs
+
+##### varargs
 ```java
 public static void main(String ...args){
   // Method Body
