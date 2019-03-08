@@ -7,7 +7,7 @@ public class Example {
 
 }
 ```
-##### More than one class can be in a file name.
+##### More than one class can be in a file name are all in a file named Example.java
 ```java
 public class Example {
 
