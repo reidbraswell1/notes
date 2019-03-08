@@ -26,7 +26,7 @@ public class B {
 }
 ```
 
-##### Static imports
+##### Static imports -- must reference the Class name dot static variable name, method or wild card to insert all static variables and methods.
 ```java
 package c;
 // Note that out is a static variable that is imported
