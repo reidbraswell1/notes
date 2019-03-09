@@ -4,8 +4,8 @@
 | --- | --- |
 | Post-unary  | expression++, expression-- |
 | Pre-unary | ++expression, --expression |
-| Other unary | #####~  +  -  ! |
-| Multiplication/Division/Modulus |  *  /  % |
-| Addition/Subtraction | +  - |
+| Other unary | ~,   +,   -,   ! |
+| Multiplication/Division/Modulus |  *,  /,  % |
+| Addition/Subtraction | +,  - |
 | Shift | <<,  >>,  >>> |
 | Relational | <, >, <=, >=, instanceof |
