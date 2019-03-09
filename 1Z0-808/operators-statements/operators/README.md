@@ -33,3 +33,11 @@
 | Assignment |
 | :---: |
 | +=, -=, *=, /=, %= |
+
+### Relational Operators
+| Relational |
+| --- |
+| < | less than |
+| <= | less than equal |
+| > | greater than |
+| >= | greater than equal |
