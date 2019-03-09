@@ -10,7 +10,7 @@
 | switch |	synchronized	| this	| throw |	throws |	transient |
 | true |	try |	void |	volatile | while |   |   |
 
-| a | b | c|
+| a | b | c |
 
 ### Identifiers 
 1. ##### Name must begin with letter, $, or _
