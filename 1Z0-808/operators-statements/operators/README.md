@@ -19,7 +19,7 @@
 
 | Unary operator | Description |
 | --- | --- |
-| + | Indicates number is positive |
+| + | Indicates number is positive (Default assumption with no operator) |
 | - | Indicates number is negative |
 | ++ | Increments by 1 |
 | -- | Decrements by 1 |
