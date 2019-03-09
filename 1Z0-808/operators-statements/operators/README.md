@@ -8,3 +8,4 @@
 | Multiplication/Division/Modulus |  *  /  % |
 | Addition/Subtraction | +  - |
 | Shift | <<,  >>,  >>> |
+| Relational | <, >, <=, >=, instanceof |
