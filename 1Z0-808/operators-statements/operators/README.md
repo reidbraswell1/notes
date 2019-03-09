@@ -4,7 +4,7 @@
 | --- | --- |
 | Post-unary  | expression++, expression-- |
 | Pre-unary | ++expression, --expression |
-| Other unary | ~  +  -  ! |
+| Other unary | *~*  +  -  ! |
 | Multiplication/Division/Modulus |  *  /  % |
 | Addition/Subtraction | +  - |
 | Shift | <<,  >>,  >>> |
