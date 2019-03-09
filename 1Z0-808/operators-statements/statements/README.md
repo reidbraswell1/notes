@@ -28,5 +28,13 @@ switch(variableToTest) {
     default: // optional may appear anywhere in switch statement
         // statements to execute
 }
+
+##### while
+```java
+while(booleanExpression) {
+
+    // body
+}
+```
 ```
 
