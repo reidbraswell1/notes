@@ -37,5 +37,11 @@ while(booleanExpression) {
     // body
 }
 ```
+
+##### do-while
+```java
+do {
+    // body
+} while (booleanExpression);
 ```
 
