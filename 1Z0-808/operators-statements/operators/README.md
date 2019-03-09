@@ -41,3 +41,4 @@
 | <= | less than equal |
 | > | greater than |
 | >= | greater than equal |
+| a instanceof b | is reference a instance of a class b (true/false) | 
