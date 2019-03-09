@@ -12,9 +12,7 @@
 
 | a | b | c |
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
+
 1 | 2 | 3
 
 ### Identifiers 
