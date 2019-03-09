@@ -11,3 +11,4 @@
 | Relational | <, >, <=, >=, instanceof |
 | Equal, Not Equal | ==, != |
 | Logical | &, ^, \| |
+| Short-circuit | &&, \|\| |
