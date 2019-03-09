@@ -1,5 +1,6 @@
 ### Identifiers 
- ##### Name must begin with letter, $, or _
+1. ##### Name must begin with letter, $, or _
+2. ##### Subsequent characters my be numbers.
  
 ### Declaring & Initializing Variables
 
