@@ -16,7 +16,6 @@
 | Assignment | =, +=, -=, *=, /=, %=, &=, ^=, \|=, <<=, >>=, >>>= |
 
 ### Unary Operators
-
 | Unary operator | Description |
 | --- | --- |
 | + | Indicates number is positive (Default assumption with no operator) |
@@ -24,3 +23,8 @@
 | ++ | Increments by 1 |
 | -- | Decrements by 1 |
 | ! | Inverts a Boolean's logical value |
+
+### Assignment Operators
+| Assignment | 
+| --- |
+| = |
