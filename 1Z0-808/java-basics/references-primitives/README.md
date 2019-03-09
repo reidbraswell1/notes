@@ -1,4 +1,4 @@
-### Java Primitive Types
+### Java Primitive Types - values held in memory
 ---
 | Keyword | Type                        | Example | Max Value - Min Value                    |
 | :------ | :-------------------------- | :------ | :--------------------------------------- |
@@ -28,4 +28,14 @@ System.out.println(Integer.toOctalString(56)); // 70
 System.out.println(0x1F); // 31 Hexadecimal
 System.out.println(Integer.toHexString(31)); // 1f
 ```
+### Reference Types - stores memory address where the object is located
+```java
 
+// Both null initially
+String greeting;
+java.util.Date today;
+
+// Reassigned
+greeting = "Hello";
+today = new java.util.Date();
+```
