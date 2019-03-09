@@ -32,4 +32,4 @@
 ### Compound Assignment Operators
 | Assignment |
 | :---: |
-| +=, -=, *=, /= |
+| +=, -=, *=, /=, %= |
