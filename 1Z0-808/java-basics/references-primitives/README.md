@@ -13,9 +13,18 @@
 
 ##### Number System Constant Conversions
 ```java
-System.out.println(56); // 56 Base 10
-System.out.println(0b11); // 3 Binary
+// Base 10
+System.out.println(56); // 56
+
+// Binary
+System.out.println(0b11); // 3
+System.out.println(Integer.toBinaryString(56)); // 111000
+
+// Octal
 System.out.println(017); // 15 Octal
+System.out.println(Integer.toOctalString(56)); // 70
+
+// Hexadecimal
 System.out.println(0x1F); // 31 Hexadecimal
 ```
 
