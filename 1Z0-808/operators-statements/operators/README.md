@@ -12,3 +12,5 @@
 | Equal, Not Equal | ==, != |
 | Logical | &, ^, \| |
 | Short-circuit | &&, \|\| |
+| Ternary | boolean expression ? expression1 : expression2 |
+| Assignment | =, +=, -=, *=, /=, %=, &=, ^=, \|=, <<=, >>=, >>>= |
