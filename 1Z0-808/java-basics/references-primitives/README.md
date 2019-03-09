@@ -38,4 +38,7 @@ java.util.Date today;
 // Reassigned
 greeting = "Hello";
 today = new java.util.Date();
+
+// Reference types can be used to call methods when they do not point to null
+int len = greeting.length();
 ```
