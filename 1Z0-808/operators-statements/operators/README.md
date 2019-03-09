@@ -5,3 +5,4 @@
 | Post-unary  | expression++, expression-- |
 | Pre-unary | ++expression, --expression |
 | Other unary | ~  +  -  ! |
+| Multiplication/Division/Modulus |  *  /  % |
