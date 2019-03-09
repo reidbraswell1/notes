@@ -21,11 +21,11 @@ if(booleanExpression) {
 switch(variableToTest) {
     case constantExpression1:
         // statements to execute
-        break;
+        break; // optional break
     case canstantExpression2:
         // statements to execute
-        break;
-    default:
+        break; // optional break
+    default: // optional may appear anywhere in switch statement
         // statements to execute
 }
 ```
