@@ -1,3 +1,6 @@
+### Identifiers 
+ ##### Name must begin with letter, $, or _
+ 
 ### Declaring & Initializing Variables
 
 ```java
