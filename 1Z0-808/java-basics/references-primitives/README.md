@@ -26,5 +26,6 @@ System.out.println(Integer.toOctalString(56)); // 70
 
 // Hexadecimal
 System.out.println(0x1F); // 31 Hexadecimal
+System.out.println(Integer.toHexString(31)); // 1f
 ```
 
