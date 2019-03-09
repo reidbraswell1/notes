@@ -14,3 +14,13 @@
 | Short-circuit | &&, \|\| |
 | Ternary | boolean expression ? expression1 : expression2 |
 | Assignment | =, +=, -=, *=, /=, %=, &=, ^=, \|=, <<=, >>=, >>>= |
+
+### Unary Operators
+
+| Unary operator | Description |
+| --- | --- |
+| + | Indicates number is positive |
+| - | Indicates number is negative |
+| ++ | Increments by 1 |
+| -- | Decrements by 1 |
+| ! | Inverts a Boolean's logical value |
