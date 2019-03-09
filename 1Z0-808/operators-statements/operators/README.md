@@ -2,4 +2,6 @@
 
 | Operator | Symbols and Examples |
 | --- | --- |
-| Post-unary operators | expression++, expression-- |
+| Post-unary  | expression++, expression-- |
+| Pre-unary | ++expression, --expression |
+| Other unary | ~,+,-,! |
