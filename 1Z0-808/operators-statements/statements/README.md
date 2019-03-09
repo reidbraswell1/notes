@@ -14,3 +14,19 @@ if(booleanExpression) {
 } else {
     // statements to execute if false
 }
+```
+
+#### switch
+```java
+switch(variableToTest) {
+    case constantExpression1:
+        // statements to execute
+        break;
+    case canstantExpression2:
+        // statements to execute
+        break;
+    default:
+        // statements to execute
+}
+```
+
