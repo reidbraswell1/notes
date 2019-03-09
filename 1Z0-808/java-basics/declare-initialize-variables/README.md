@@ -12,6 +12,11 @@
 
 | a | b | c |
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 ### Identifiers 
 1. ##### Name must begin with letter, $, or _
 2. ##### Subsequent characters my be numbers.
