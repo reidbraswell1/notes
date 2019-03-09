@@ -2,7 +2,6 @@
 
 ```java
 String s; // Initial value is null if instance or class variable
-
 int i;    // Initial value is 0 if instance or class variable
 
 // Multiple variable declaration
