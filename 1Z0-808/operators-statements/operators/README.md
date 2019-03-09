@@ -35,8 +35,8 @@
 | +=, -=, *=, /=, %= |
 
 ### Relational Operators
-| Relational |
-| --- |
+| Relational | Description |
+| --- | --- |
 | < | less than |
 | <= | less than equal |
 | > | greater than |
