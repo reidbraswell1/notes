@@ -6,3 +6,5 @@
 | Pre-unary | ++expression, --expression |
 | Other unary | ~  +  -  ! |
 | Multiplication/Division/Modulus |  *  /  % |
+| Addition/Subtraction | +  - |
+| Shift | <<  >>  >>> |
