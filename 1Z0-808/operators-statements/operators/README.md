@@ -7,4 +7,4 @@
 | Other unary | ~  +  -  ! |
 | Multiplication/Division/Modulus |  *  /  % |
 | Addition/Subtraction | +  - |
-| Shift | <<  >>  >>> |
+| Shift | <<,  >>,  >>> |
