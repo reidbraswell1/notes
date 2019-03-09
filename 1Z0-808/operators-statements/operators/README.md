@@ -26,5 +26,10 @@
 
 ### Assignment Operators
 | Assignment | 
-| --- |
+| :---: |
 | = |
+
+### Compound Assignment Operators
+| Assignment |
+| :---: |
+| +=, -=, *=, /= |
