@@ -4,4 +4,4 @@
 | --- | --- |
 | Post-unary  | expression++, expression-- |
 | Pre-unary | ++expression, --expression |
-| Other unary | ~,+,-,! |
+| Other unary | ~  +  -  ! |
