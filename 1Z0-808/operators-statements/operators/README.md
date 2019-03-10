@@ -42,3 +42,5 @@
 | > | greater than |
 | >= | greater than equal |
 | a instanceof b | is reference **a** instance of class **b** (true/false) | 
+
+[Back](../)
