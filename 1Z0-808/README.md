@@ -1,5 +1,5 @@
 1. [Java Basics](java-basics/README.md)
-2. [Operators & Statements](operators-statements/README.md)
+2. [Operators & (Loop) Statements](operators-statements/README.md)
 3. [Core API's]()
 4. [Methods & Encapsulation]()
 5. [Class Design]()
