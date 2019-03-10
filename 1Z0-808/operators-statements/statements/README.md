@@ -4,7 +4,7 @@
 3. [switch](#switch)
 4. [while](#while)
 5. [do-while](#do-while)
-6. [for](for/README.md)
+6. [for](#for)
 7. [for-each](for-each/README.md)
 
 <hr/>
@@ -78,6 +78,27 @@ while(booleanExpression) {
 do {
     // body
 } while (booleanExpression);
+```
+<hr/>
+
+#### <a name="for"></a>for
+
+<hr/>
+
+```java
+for(initialization; booleanExpression; updateStatement) {
+    // body
+}
+
+// alternate 1
+for(init1, init2, ... ,initN; booleanExpression; update1, update2, ... ,updateN) {
+    // body
+}
+
+// alternate 2
+for(;booleanExpression;) {
+    // body
+}   
 ```
 
 [Back](../)
