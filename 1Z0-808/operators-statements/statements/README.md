@@ -11,12 +11,6 @@
 [Back](../)
 
 
-##### if-then
-```java
-if(booleanExpression) {
-    // statements to execute if true
-}
-```
 
 ##### if-then-else
 ```java
