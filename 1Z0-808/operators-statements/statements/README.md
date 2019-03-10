@@ -9,9 +9,3 @@
 7. [for-each](for-each/README.md)
 
 [Back](../)
-
-
-
-##### for-each
-```
-
