@@ -7,4 +7,4 @@
 7. [Default Initialization]()
 8. [Variable Scope]()
 9. [Element Ordering in a Class]()
-10. [Destroying Objects]()
+10. [Destroying Objects GC]()
