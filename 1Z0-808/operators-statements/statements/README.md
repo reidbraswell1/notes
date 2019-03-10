@@ -1,4 +1,4 @@
-### JAVA Statements
+### JAVA (Loop) Statements
 1. [if-then](#if-then)
 2. [if-then-else](#if-then-else)
 3. [switch](#switch)
