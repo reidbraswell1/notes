@@ -1,6 +1,6 @@
 ### JAVA Statements
 1. [if-then](#if-then)
-2. [if-then-else](if-then-else)
+2. [if-then-else](#if-then-else)
 4. [while](while/README.md)
 5. [do-while](do-while/README.md)
 6. [for](for/README.md)
