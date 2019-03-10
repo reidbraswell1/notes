@@ -18,5 +18,19 @@ if(booleanExpression) {
     // statements to execute if true
 }
 ```
+<hr/>
+
+#### if-then-else
+
+<hr/>
+
+```java
+if(booleanExpression) {
+    // statements to execute if true
+} else {
+    // statements to execute if false
+}
+```
 
 [Back](../)
+
