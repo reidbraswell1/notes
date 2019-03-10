@@ -1,5 +1,5 @@
 ### JAVA Statements
-
+1. [if-then](#if-then)
 4. [while](while/README.md)
 5. [do-while](do-while/README.md)
 6. [for](for/README.md)
@@ -7,7 +7,7 @@
 
 <hr/>
 
-#### if-then
+#### <a name="if-then"></a>if-then
 
 <hr/>
 
