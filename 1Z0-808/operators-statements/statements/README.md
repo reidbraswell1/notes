@@ -10,17 +10,6 @@
 
 [Back](../)
 
-
-##### while
-```java
-// while executes 0 or more times
-// brackets required if multiple statements
-// parenthesis required
-while(booleanExpression) {
-    // body
-}
-```
-
 ##### do-while
 ```java
 // do-while executes at least 1 time
