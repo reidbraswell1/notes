@@ -1,6 +1,5 @@
 ### JAVA Statements
 
-1. [if-then](if-then/README.md)
 2. [if-then-else](if-then-else/README.md)
 3. [switch](switch/README.md)
 4. [while](while/README.md)
