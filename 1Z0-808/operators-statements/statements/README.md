@@ -8,7 +8,9 @@
 6. [for](for/README.md)
 7. [for-each](for-each/README.md)
 
+<hr/>
 #### if-then
+<hr/>
 ```java
 if(booleanExpression) {
     // statements to execute if true
