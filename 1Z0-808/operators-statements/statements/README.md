@@ -1,3 +1,4 @@
+### JAVA Statements
 
 1. [if-then]()
 2. [if-then-else]()
@@ -9,7 +10,6 @@
 
 [Back](../)
 
-### JAVA Statements
 
 ##### if-then
 ```java
