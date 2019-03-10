@@ -1,6 +1,7 @@
 ### JAVA Statements
 1. [if-then](#if-then)
 2. [if-then-else](#if-then-else)
+3. [switch](#switch)
 4. [while](while/README.md)
 5. [do-while](do-while/README.md)
 6. [for](for/README.md)
@@ -32,7 +33,7 @@ if(booleanExpression) {
 ```
 <hr/>
 
-#### switch
+#### <a name="switch"></a>switch
 
 <hr/>
 
