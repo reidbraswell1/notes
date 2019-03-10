@@ -55,6 +55,7 @@ switch(variableToTest) {
 #### <a name="while"></a>while
 
 <hr/>
+
 ```java
 // while executes 0 or more times
 // brackets required if multiple statements
