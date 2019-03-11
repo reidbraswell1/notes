@@ -44,8 +44,8 @@
 | a instanceof b | is reference **a** instance of class **b** (true/false) | 
 
 ### Relational Operator Truth Table
-|   |   |
- --- ---
+| x&y | x&y |
+| --- | --- |
 | |y=true|y=false|
 |x=true|true|false|
 |y=false|false|false|
