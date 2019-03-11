@@ -20,6 +20,6 @@
   byte x = 12;
   byte y = 15;
   
-  int z = x + y;
+  int z = x + y;  // result is int as x and y are promoted to int
   ```
 4. The resulting value will have the same data type as its promoted operands.
