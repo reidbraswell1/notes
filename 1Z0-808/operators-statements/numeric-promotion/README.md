@@ -11,7 +11,7 @@
 2. If 1 of the values is integer and the other is floating-point, the integer value will be promoted to the floating-point type.
 ```java
   int x = 1;
-  float y = 12.5l;
+  float y = 12.5f;
   
   float = x * y;  // x will be promoted to float before the multiplication
 ```  
