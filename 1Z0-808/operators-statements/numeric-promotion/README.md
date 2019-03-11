@@ -9,3 +9,11 @@
   long = x * y; // x will be promoted to long before the multiplication
 ```
 2. If 1 of the values is integer and the other is floating-point, the integer value will be promoted to the floating-point type.
+```java
+  int x = 1;
+  float y = 12.5l;
+  
+  float = x * y;  // x will be promoted to float before the multiplication
+```  
+3. Smaller data types: byte, short and char are promoted to int when they are used with a binary arithmetic operator.
+4. The resulting value will have the same data type as its promoted operands.
