@@ -1,19 +1,19 @@
 ### JAVA Operators
 
-| Operator | Symbols and Examples |
-| --- | --- |
-| Post-unary  | expression++, expression-- |
-| Pre-unary | ++expression, --expression |
-| Other unary | ~,   +,   -,   ! |
-| Multiplication/Division/Modulus |  \*,  /,  % |
-| Addition/Subtraction | +,  - |
-| Shift | <<,  >>,  >>> |
-| Relational | <, >, <=, >=, instanceof |
-| Equal, Not Equal | ==, != |
-| Logical | &, ^, \| |
-| Short-circuit | &&, \|\| |
-| Ternary | boolean expression ? expression1 : expression2 |
-| Assignment | =, +=, -=, *=, /=, %=, &=, ^=, \|=, <<=, >>=, >>>= |
+| Operator | Symbols and Examples | Notes |
+| --- | --- | --- |
+| Post-unary  | expression++, expression-- | |
+| Pre-unary | ++expression, --expression | |
+| Other unary | ~,   +,   -,   ! | |
+| Multiplication/Division/Modulus |  \*,  /,  % | |
+| Addition/Subtraction | +,  - | |
+| Shift | <<,  >>,  >>> | |
+| Relational | <, >, <=, >=, instanceof | |
+| Equal, Not Equal | ==, != | |
+| Logical | &, ^, \| | |
+| Short-circuit | &&, \|\| | |
+| Ternary | boolean expression ? expression1 : expression2 | expression1 if true otherwise expression2 |
+| Assignment | =, +=, -=, *=, /=, %=, &=, ^=, \|=, <<=, >>=, >>>= | |
 
 ### Unary Operators
 | Unary operator | Description |
