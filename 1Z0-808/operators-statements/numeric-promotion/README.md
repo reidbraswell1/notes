@@ -23,3 +23,9 @@
   int z = x + y;  // result is int as x and y are promoted to int
   ```
 4. The resulting value will have the same data type as its promoted operands.
+```java
+  short x = 15;
+  double y = 3;
+  
+  double z = x / y;  // x promoted to int then promoted to double
+```  
