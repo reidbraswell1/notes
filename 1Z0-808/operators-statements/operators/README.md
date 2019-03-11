@@ -43,7 +43,7 @@
 | >= | greater than equal |
 | a instanceof b | is reference **a** instance of class **b** (true/false) | 
 
-### Relational Operator Truth Table (AND)
+### Relational Operator Truth Table (AND - X & Y)
 |  |  |  |
 | --- | --- | --- |
 | |y=true|y=false|
