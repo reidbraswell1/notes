@@ -57,4 +57,11 @@
 |x=true|true|true|
 |x=false|true|false|
 
+### Relational Operator Truth Table (EXCLUSIVE OR - x ^ y)
+|  |  |  |
+| --- | --- | --- |
+| |y=true|y=false|
+|x=true|false|true|
+|x=false|true|false|
+
 [Back](../)
