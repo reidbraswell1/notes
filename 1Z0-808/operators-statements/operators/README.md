@@ -43,4 +43,10 @@
 | >= | greater than equal |
 | a instanceof b | is reference **a** instance of class **b** (true/false) | 
 
+### Relational Operator Truth Table
+|   |   |
+ --- ---
+| |y=true|y=false|
+|x=true|true|false|
+|y=false|false|false|
 [Back](../)
