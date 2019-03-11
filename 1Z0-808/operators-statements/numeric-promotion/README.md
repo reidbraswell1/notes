@@ -4,4 +4,4 @@
 1. If 2 values have different data types one will be promoted to the larger of the two data types. 
 ```java
 ```
-1. 
+2. 
