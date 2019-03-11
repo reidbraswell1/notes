@@ -6,6 +6,6 @@
   int x = 1;
   long y = 10;
   
-  ? = x * y; // x will be promoted to long before the multiplication
+  long = x * y; // x will be promoted to long before the multiplication
 ```
 2. 
