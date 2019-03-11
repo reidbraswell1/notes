@@ -100,6 +100,17 @@ for(;booleanExpression;) {
     // body
 }   
 ```
+<hr/>
+
+#### for-each
+
+<hr/>
+
+```java
+for(datatype instance : collection) {
+  // Body
+}
+```
 
 [Back](../)
 
