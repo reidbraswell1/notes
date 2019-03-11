@@ -2,8 +2,8 @@
 
 | Operator | Symbols and Examples | Notes |
 | --- | --- | --- |
-| Post-unary  | expression++, expression-- | |
-| Pre-unary | ++expression, --expression | |
+| Post-unary  | expression++, expression-- | value of the expression is used then incremented or decremented |
+| Pre-unary | ++expression, --expression |  value of the expression is incremented or decremented prior to use |
 | Other unary | ~,   +,   -,   ! | |
 | Multiplication/Division/Modulus |  \*,  /,  % | |
 | Addition/Subtraction | +,  - | |
