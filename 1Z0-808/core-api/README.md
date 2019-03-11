@@ -1,6 +1,6 @@
 ### Core API's
 
-1. [Strings]()
+1. [Strings](strings/README.md)
 1. [String Builder]()
 1. [Equality]()
 1. [Arrays]()
