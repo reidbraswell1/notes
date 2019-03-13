@@ -16,17 +16,21 @@
 ##### String Pool - (intern pool) - contains all literal values that appear in a program.
 ##### Important string methods:
 
-1. length()
+1. length() - returns the length of a string
+<br/>
+int length()
 ```java
     String car = "toyota";
     System.out.println(car.length());  // 6
 ```    
-2. charAt()
+2. charAt() - returns the character at index
+<br/>
+char charAt(int index)
 ```java
     String car = "volvo";
     System.out.println(car.charAt(1)); // o
 ```    
-3. indexOf() - overloaded
+3. indexOf() - overloaded - returns the index of character or string
 ```java
     String car = "honda";
     System.out.println(car.indexOf('n')); // 2
@@ -36,9 +40,9 @@
     String car = "nissan";
     System.out.println(car.substring(1,4)); // iss 
 ```    
-1. toLowerCase() toUpperCase()
-1. equals() equalsIgnoreCase()
-1. startsWith() endsWith()
+5. toLowerCase() toUpperCase()
+6. equals() equalsIgnoreCase()
+7. startsWith() endsWith()
 1. contains()
 1. replace()
 1. trim()
