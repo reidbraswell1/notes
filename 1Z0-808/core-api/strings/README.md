@@ -17,6 +17,10 @@
 ##### Important string methods:
 
 1. length()
+```java
+    String car = "toyota";
+    System.out.println(car.length());  // 6
+```    
 1. charAt()
 1. indexOf()
 1. substring()
@@ -26,7 +30,3 @@
 1. contains()
 1. replace()
 1. trim()
-
-| | |
-| --- | --- |
-| a | ```java int i = 1; ``` |
