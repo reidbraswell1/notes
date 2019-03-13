@@ -26,12 +26,16 @@
     String car = "volvo";
     System.out.println(car.charAt(1)); // o
 ```    
-3. indexOf()
+3. indexOf() - overloaded
 ```java
     String car = "honda";
-    System.out.println(car.indexOf('n'); // 2
+    System.out.println(car.indexOf('n')); // 2
 ```    
-1. substring()
+4. substring() - overloaded
+```java
+    String car = "nissan";
+    System.out.println(car.substring(1,4)); // iss 
+```    
 1. toLowerCase() toUpperCase()
 1. equals() equalsIgnoreCase()
 1. startsWith() endsWith()
