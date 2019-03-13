@@ -61,11 +61,11 @@
 8. contains()
 9. replace() - replaces a char or char sequence in a string  
 **String replace(char oldChar, char newChar)**  
+**String replace(CharSequence oldChar, CharSequence newChar)**  
 ```java
     System.out.println("abc".replace('a','A')); // Abc
     System.out.println("abc".replace("abc","def")); // def
 ```
-**String replace(CharSequence oldChar, CharSequence newChar)**  
 10. trim() - removes leading and trailing spaces, \t tab, \n newline, \r carriage return  
 **String trim()**
 ```java
