@@ -22,4 +22,8 @@
 |ZoneId | A time-zone ID, such as Europe/Paris. |
 |ZoneOffset | A time-zone offset from Greenwich/UTC, such as +02:00. |  
 
-##### For the exam LocalDate, LocalDateTime, LocalTime, Period
+##### For the exam LocalDate, LocalDateTime, LocalTime, Period  
+
+| | Pre Java 8 | Java 8 |
+| --- | --- | ---|
+|import | import java.util.\*; | import java.time.\*; |
