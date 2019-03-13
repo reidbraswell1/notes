@@ -58,9 +58,9 @@
 **boolean equal(Object obj)**  
 **boolean equalsIgnoreCase(String str)**  
 7. startsWith() endsWith()
-1. contains()
-1. replace()
-1. trim() - removes leading and trailing spaces, \t tab, \n newline, \r carriage return  
+8. contains()
+9. replace()
+10. trim() - removes leading and trailing spaces, \t tab, \n newline, \r carriage return  
+**String trim()**
 ```java
-    String trim()
 ```    
