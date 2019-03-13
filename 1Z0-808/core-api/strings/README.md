@@ -21,8 +21,16 @@
     String car = "toyota";
     System.out.println(car.length());  // 6
 ```    
-1. charAt()
-1. indexOf()
+2. charAt()
+```java
+    String car = "volvo";
+    System.out.println(car.charAt(1)); // o
+```    
+3. indexOf()
+```java
+    String car = "honda";
+    System.out.println(car.indexOf('n'); // 2
+```    
 1. substring()
 1. toLowerCase() toUpperCase()
 1. equals() equalsIgnoreCase()
