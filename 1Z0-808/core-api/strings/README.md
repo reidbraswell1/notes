@@ -36,6 +36,7 @@
 ```java
     String car = "honda";
     System.out.println(car.indexOf('n')); // 2
+    System.out.println(car.indexOf(97)); // 4
 ```    
 4. substring() - overloaded  
 **String substring(int beginIndex)**  
