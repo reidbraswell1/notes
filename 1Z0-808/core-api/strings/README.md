@@ -37,7 +37,9 @@
     String car = "honda";
     System.out.println(car.indexOf('n')); // 2
 ```    
-4. substring() - overloaded
+4. substring() - overloaded  
+**String substring(int beginIndex)**  
+**String substring(int beginIndex, int endIndex)**  
 ```java
     String car = "nissan";
     System.out.println(car.substring(1,4)); // iss 
