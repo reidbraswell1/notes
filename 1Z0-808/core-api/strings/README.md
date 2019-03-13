@@ -17,9 +17,6 @@
 ##### Important string methods:
 
 1. length() - returns the length of a string
-<br/>
-  int length()
-<br/>
 ```java
     String car = "toyota";
     System.out.println(car.length());  // 6
