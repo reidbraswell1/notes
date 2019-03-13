@@ -47,6 +47,12 @@
 5. toLowerCase() toUpperCase()  
 **String toLowerCase()**  
 **String toUppderCase()**  
+```java
+    String s1 = "string";
+    String s2 = "STRING";
+    System.out.println(s1.toUpperCase()); // STRING
+    System.out.println(s2.toLowerCase()); // string
+```    
 6. equals() equalsIgnoreCase()
 7. startsWith() endsWith()
 1. contains()
