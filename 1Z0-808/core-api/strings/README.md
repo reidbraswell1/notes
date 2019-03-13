@@ -16,4 +16,13 @@
 ##### String Pool - (intern pool) - contains all literal values that appear in a program.
 ##### Important string methods:
 
-1.
+1. length()
+1. charAt()
+1. indexOf()
+1. substring()
+1. toLowerCase() toUpperCase()
+1. equals() equalsIgnoreCase()
+1. startsWith() endsWith()
+1. contains()
+1. replace()
+1. trim()
