@@ -31,3 +31,4 @@
 |create date & time | Date dt = new Date(); | LocalDateTime dt = LocalDateTime.now(); |
 |create certain date | Calendar cal = Calendar.getInstance();<br/>cal.set(2017, Calendar.JANUARY, 1);<br/>Date jan = cal.getTime(); | LocalDate jan = LocalDate.of(2017,Month.JANUARY,1);|
 |create certain date alt| Calendar cal = new GregorianCalendar(2017,Calendar.JANUARY, 1);<br/>Date jan = cal.getTime(); | |
+|create certain date alt2| Calendar cal = Calendar.getInstance();<br/>cal.set(2017,0, 1);<br/>Date jan = cal.getTime(); | LocalDate jan = LocalDate.of(2017, 1, 1); |
