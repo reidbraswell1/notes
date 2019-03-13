@@ -44,7 +44,9 @@
     String car = "nissan";
     System.out.println(car.substring(1,4)); // iss 
 ```    
-5. toLowerCase() toUpperCase()
+5. toLowerCase() toUpperCase()  
+**String toLowerCase()**  
+**String toUppderCase()**  
 6. equals() equalsIgnoreCase()
 7. startsWith() endsWith()
 1. contains()
