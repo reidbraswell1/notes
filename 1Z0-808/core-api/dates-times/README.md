@@ -29,4 +29,4 @@
 |import | import java.util.\*; | import java.time.\*; |
 |create date | Date dt = new Date(); | LocalDate dt = LocalDate.now(); |
 |create date & time | Date dt = new Date(); | LocalDateTime dt = LocalDateTime.now(); |
-|create certain date | Calendar cal = Calendar.getInstance();<br/>cal.set(2017, Calendar.JANUARY, 1);<br/>Date jan = cal.getTime(); | LocalDate jan = LocalDate.of(2015,Month.JANUARY,1);|
+|create certain date | Calendar cal = Calendar.getInstance();<br/>cal.set(2017, Calendar.JANUARY, 1);<br/>Date jan = cal.getTime(); | LocalDate jan = LocalDate.of(2017,Month.JANUARY,1);|
