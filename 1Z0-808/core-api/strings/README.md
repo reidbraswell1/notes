@@ -26,3 +26,7 @@
 1. contains()
 1. replace()
 1. trim()
+
+| | |
+| --- | --- |
+| a | ```java int i = 1; ``` |
