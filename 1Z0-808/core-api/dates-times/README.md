@@ -27,3 +27,4 @@
 | | Pre Java 8 | Java 8 |
 | --- | --- | ---|
 |import | import java.util.\*; | import java.time.\*; |
+|create | Date dt = new Date(); | LocalDate dt = LocalDate.now(); |
