@@ -53,7 +53,9 @@
     System.out.println(s1.toUpperCase()); // STRING
     System.out.println(s2.toLowerCase()); // string
 ```    
-6. equals() equalsIgnoreCase()
+6. equals() & equalsIgnoreCase()  
+**boolean equal(Object obj)**  
+**boolean equalsIgnoreCase(String str)**  
 7. startsWith() endsWith()
 1. contains()
 1. replace()
