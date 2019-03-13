@@ -11,3 +11,6 @@
     System.out.println("A" + "B"); // AB use second rule
     System.out.println(1 + 2 + "C"); // 3C use 3rd rule. 1 + 2 numeric add to 3 then evaluate "C" using rule 2 
 ```
+
+Strings are immutable.
+String Pool - (intern pool) - contains all literal values that appear in a program.
