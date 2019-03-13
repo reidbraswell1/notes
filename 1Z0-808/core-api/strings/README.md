@@ -53,7 +53,7 @@
     System.out.println(s1.toUpperCase()); // STRING
     System.out.println(s2.toLowerCase()); // string
 ```    
-6. equals() & equalsIgnoreCase()  
+6. equals() & equalsIgnoreCase() - checks if 2 string objects have the same characters  
 **boolean equal(Object obj)**  
 **boolean equalsIgnoreCase(String str)**  
 7. startsWith() endsWith()
