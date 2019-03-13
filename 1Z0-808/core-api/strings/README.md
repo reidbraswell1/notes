@@ -63,4 +63,5 @@
 10. trim() - removes leading and trailing spaces, \t tab, \n newline, \r carriage return  
 **String trim()**
 ```java
+    System.out.println("\t  ab c \r \n".trim()); // ab c
 ```    
