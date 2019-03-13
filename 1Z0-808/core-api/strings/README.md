@@ -57,6 +57,11 @@
 6. equals() & equalsIgnoreCase() - checks if 2 string objects have the same characters  
 **boolean equal(Object obj)**  
 **boolean equalsIgnoreCase(String str)**  
+```java
+    System.out.println("wxyz".equals("WXYZ")); // false
+    System.out.println("WXYZ".equals("WXYZ")); // true
+    System.out.println("lmnop".equalsIngoreCase("LMNOP")); //true
+```
 7. startsWith() endsWith()  
 boolean startsWith(String prefix)  
 boolean endsWith(String suffix)  
