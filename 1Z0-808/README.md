@@ -4,7 +4,10 @@
 4. [Methods & Encapsulation]()
 5. [Class Design]()
 6. [Exceptions]()
-7. [Lambda's]()  
+7. [Lambda's]()
 
-```diff+++test
+
+```diff
++ test
+- test2
 ```
