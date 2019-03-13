@@ -21,8 +21,7 @@
     String car = "toyota";
     System.out.println(car.length());  // 6
 ```    
-2. charAt() - returns the character at index
-<br/>
+2. charAt() - returns the character at index  
 char charAt(int index)
 ```java
     String car = "volvo";
