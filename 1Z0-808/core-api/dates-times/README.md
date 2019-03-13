@@ -20,4 +20,6 @@
 |YearMonth | A year-month in the ISO-8601 calendar system, such as 2007-12. |
 |ZonedDateTime | A date-time with a time-zone in the ISO-8601 calendar system, such as 2007-12-03T10:15:30+01:00 Europe/Paris. |
 |ZoneId | A time-zone ID, such as Europe/Paris. |
-|ZoneOffset | A time-zone offset from Greenwich/UTC, such as +02:00. |
+|ZoneOffset | A time-zone offset from Greenwich/UTC, such as +02:00. |  
+
+##### For the exam LocalDate, LocalDateTime, LocalTime, Period
