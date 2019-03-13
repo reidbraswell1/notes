@@ -57,7 +57,17 @@
 6. equals() & equalsIgnoreCase() - checks if 2 string objects have the same characters  
 **boolean equal(Object obj)**  
 **boolean equalsIgnoreCase(String str)**  
-7. startsWith() endsWith()
+7. startsWith() endsWith()  
+boolean startsWith(String prefix)  
+boolean endsWith(String suffix)  
+```java
+    System.out.println("wxyz".startsWith("w")); // true
+    System.out.println("wxyz".startsWith("wx")); // true
+    System.out.println("wxyz".startsWith("x")); // false
+    System.out.println("wxyz".endsWith("z")); // true
+    System.out.println("wxyz".endsWith("yz")); // true
+    System.out.println("wxyz".endsWith("y")); // false
+```    
 8. contains()
 9. replace() - replaces a char or char sequence in a string  
 **String replace(char oldChar, char newChar)**  
