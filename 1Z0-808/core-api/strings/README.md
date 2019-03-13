@@ -29,10 +29,10 @@
     System.out.println(car.charAt(1)); // o
 ```    
 3. indexOf() - overloaded - returns the index of character or string  
-**int indexOf(int ch)**
-**int indexOf(char ch, int fromIndex)**
-**int indexOf(String str)**
-**int indexOf(String str, index fromIndex)**
+**int indexOf(int ch)**  
+**int indexOf(char ch, int fromIndex)**  
+**int indexOf(String str)**  
+**int indexOf(String str, index fromIndex)**  
 ```java
     String car = "honda";
     System.out.println(car.indexOf('n')); // 2
