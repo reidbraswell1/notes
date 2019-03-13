@@ -60,4 +60,7 @@
 7. startsWith() endsWith()
 1. contains()
 1. replace()
-1. trim() - removes leading and trailing spaces, \t tab, \n newline, \r carriage return
+1. trim() - removes leading and trailing spaces, \t tab, \n newline, \r carriage return  
+```java
+    String trim()
+```    
