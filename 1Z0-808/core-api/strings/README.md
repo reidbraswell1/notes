@@ -68,7 +68,11 @@ boolean endsWith(String suffix)
     System.out.println("wxyz".endsWith("yz")); // true
     System.out.println("wxyz".endsWith("y")); // false
 ```    
-8. contains()
+8. contains()  
+boolean contains(String str)  
+```java
+    System.out.println("jack and jill".contains("and")); // true
+```
 9. replace() - replaces a char or char sequence in a string  
 **String replace(char oldChar, char newChar)**  
 **String replace(CharSequence oldChar, CharSequence newChar)**  
