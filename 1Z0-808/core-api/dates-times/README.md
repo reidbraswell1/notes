@@ -38,4 +38,7 @@
 #### Date Manipulation
 |Method|Description|
 | --- | ---|
-|plusDays()|Add the number of days to the date.|
+|plusDays()<br/>minusDays()|Add the number of days to the date.|
+|plusWeeks()|Add the number of weeks to the date.|
+|plusMonths()|Add the number of months to the date.|
+|plusYears()|Add the number of years to the date.|
