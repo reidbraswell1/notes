@@ -81,7 +81,7 @@
 |Period |	plusYears(long yearsToAdd) | Returns a copy of this period with the specified years added. |
 |Temporal |	subtractFrom(Temporal temporal) | Subtracts this period from the specified temporal object. |
 |String | toString() | Outputs this period as a String, such as P6Y3M1D. |
-|long |	toTotalMonths()Gets the total number of months in this period.
-|Period |	withDays(int days)Returns a copy of this period with the specified amount of days.
-|Period |	withMonths(int months)Returns a copy of this period with the specified amount of months.
-|Period |	withYears(int years)Returns a copy of this period with the specified amount of years.
+|long |	toTotalMonths() | Gets the total number of months in this period. |
+|Period |	withDays(int days) | Returns a copy of this period with the specified amount of days. |
+|Period |	withMonths(int months) | Returns a copy of this period with the specified amount of months. |
+|Period |	withYears(int years) | Returns a copy of this period with the specified amount of years. |
