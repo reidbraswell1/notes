@@ -47,7 +47,7 @@
 |plusYears()<br/>minusYears()|Add/Subtract the number of years to the date.|
 ```java
         LocalDateTime dt = LocalDateTime.of(2017, 1, 1, 12, 0, 0);
-        System.out.println(dt.plusDays(2));
+        System.out.println(dt.plusDays(2)); // 2017-01-03T12:00:09
 ```        
 
 #### Period
