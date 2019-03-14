@@ -55,16 +55,11 @@
 |static |Period |from(TemporalAmount amount) |Obtains an instance of Period from a temporal amount.|
 |long |	get(TemporalUnit unit) | Gets the value of the requested unit.|
 |IsoChronology |getChronology()|Gets the chronology of this period, which is the ISO calendar system.|
-int 	getDays()
-Gets the amount of days of this period.
-int 	getMonths()
-Gets the amount of months of this period.
-List<TemporalUnit> 	getUnits()
-Gets the set of units supported by this period.
-int 	getYears()
-Gets the amount of years of this period.
-int 	hashCode()
-A hash code for this period.
+|int |getDays() |Gets the amount of days of this period.|
+|int |	getMonths() | Gets the amount of months of this period. |
+|List<TemporalUnit> |	getUnits() | Gets the set of units supported by this period.|
+|int | getYears() | Gets the amount of years of this period. |
+|int | hashCode() | A hash code for this period. |
 boolean 	isNegative()
 Checks if any of the three units of this period are negative.
 boolean 	isZero()
