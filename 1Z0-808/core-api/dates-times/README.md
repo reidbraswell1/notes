@@ -45,6 +45,10 @@
 |plusWeeks()<br/>minusWeeks()|Add/Subtract the number of weeks to the date.|
 |plusMonths()<br/>minusMonths()|Add/Subtract the number of months to the date.|
 |plusYears()<br/>minusYears()|Add/Subtract the number of years to the date.|
+```java
+        LocalDateTime dt = LocalDateTime.of(2017, 1, 1, 12, 0, 0);
+        System.out.println(dt.plusDays(2));
+```        
 
 #### Period
 |Modifier and Type| Method | Description|
