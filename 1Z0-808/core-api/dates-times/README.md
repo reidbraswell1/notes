@@ -69,11 +69,11 @@
 |Period |	multipliedBy(int scalar) | Returns a new instance with each element in this period multiplied by the specified scalar.|
 |Period |	negated() | Returns a new instance with each amount in this period negated. |
 |Period |	normalized() | Returns a copy of this period with the years and months normalized. |
-|static Period |	of(int years, int months, int days) | Obtains a Period representing a number of years, months and days. |
-|static Period |	ofDays(int days) | Obtains a Period representing a number of days. |
-|static Period |	ofMonths(int months) | Obtains a Period representing a number of months. |
-|static Period |	ofWeeks(int weeks) | Obtains a Period representing a number of weeks. |
-|static Period |	ofYears(int years) | Obtains a Period representing a number of years. |
+|static Period |	**of(int years, int months, int days)** | Obtains a Period representing a number of years, months and days. |
+|static Period |	**ofDays(int days)** | Obtains a Period representing a number of days. |
+|static Period |	**ofMonths(int months)** | Obtains a Period representing a number of months. |
+|static Period |	**ofWeeks(int weeks)** | Obtains a Period representing a number of weeks. |
+|static Period |	**ofYears(int years)** | Obtains a Period representing a number of years. |
 |static Period |	parse(CharSequence text) | Obtains a Period from a text string such as PnYnMnD. |
 |Period |	plus(TemporalAmount amountToAdd) | Returns a copy of this period with the specified period added. |
 |Period |	plusDays(long daysToAdd) | Returns a copy of this period with the specified days added. |
