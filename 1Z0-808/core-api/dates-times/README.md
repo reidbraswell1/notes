@@ -90,3 +90,11 @@
 |Period |	withDays(int days) | Returns a copy of this period with the specified amount of days. |
 |Period |	withMonths(int months) | Returns a copy of this period with the specified amount of months. |
 |Period |	withYears(int years) | Returns a copy of this period with the specified amount of years. |
+  
+  
+### Formatting Dates and Times
+|Class | Description |
+| --- | --- |
+|DateTimeFormatter | Formatter for printing and parsing date-time objects. |
+|DateTimeFormatterBuilder | Builder to create date-time formatters. |
+|DecimalStyle | Localized decimal style used in date and time formatting. |
