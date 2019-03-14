@@ -46,3 +46,5 @@
 |plusMonths()<br/>minusMonths()|Add/Subtract the number of months to the date.|
 |plusYears()<br/>minusYears()|Add/Subtract the number of years to the date.|
 
+#### Period
+
