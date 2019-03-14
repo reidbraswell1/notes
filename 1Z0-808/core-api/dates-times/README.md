@@ -60,53 +60,28 @@
 |List<TemporalUnit> |	getUnits() | Gets the set of units supported by this period.|
 |int | getYears() | Gets the amount of years of this period. |
 |int | hashCode() | A hash code for this period. |
-boolean 	isNegative()
-Checks if any of the three units of this period are negative.
-boolean 	isZero()
-Checks if all three units of this period are zero.
-Period 	minus(TemporalAmount amountToSubtract)
-Returns a copy of this period with the specified period subtracted.
-Period 	minusDays(long daysToSubtract)
-Returns a copy of this period with the specified days subtracted.
-Period 	minusMonths(long monthsToSubtract)
-Returns a copy of this period with the specified months subtracted.
-Period 	minusYears(long yearsToSubtract)
-Returns a copy of this period with the specified years subtracted.
-Period 	multipliedBy(int scalar)
-Returns a new instance with each element in this period multiplied by the specified scalar.
-Period 	negated()
-Returns a new instance with each amount in this period negated.
-Period 	normalized()
-Returns a copy of this period with the years and months normalized.
-static Period 	of(int years, int months, int days)
-Obtains a Period representing a number of years, months and days.
-static Period 	ofDays(int days)
-Obtains a Period representing a number of days.
-static Period 	ofMonths(int months)
-Obtains a Period representing a number of months.
-static Period 	ofWeeks(int weeks)
-Obtains a Period representing a number of weeks.
-static Period 	ofYears(int years)
-Obtains a Period representing a number of years.
-static Period 	parse(CharSequence text)
-Obtains a Period from a text string such as PnYnMnD.
-Period 	plus(TemporalAmount amountToAdd)
-Returns a copy of this period with the specified period added.
-Period 	plusDays(long daysToAdd)
-Returns a copy of this period with the specified days added.
-Period 	plusMonths(long monthsToAdd)
-Returns a copy of this period with the specified months added.
-Period 	plusYears(long yearsToAdd)
-Returns a copy of this period with the specified years added.
-Temporal 	subtractFrom(Temporal temporal)
-Subtracts this period from the specified temporal object.
-String 	toString()
-Outputs this period as a String, such as P6Y3M1D.
-long 	toTotalMonths()
-Gets the total number of months in this period.
-Period 	withDays(int days)
-Returns a copy of this period with the specified amount of days.
-Period 	withMonths(int months)
-Returns a copy of this period with the specified amount of months.
-Period 	withYears(int years)
-Returns a copy of this period with the specified amount of years.
+|boolean | isNegative()| Checks if any of the three units of this period are negative.|
+|boolean |	isZero() | Checks if all three units of this period are zero. |
+|Period | minus(TemporalAmount amountToSubtract) | Returns a copy of this period with the specified period subtracted. |
+|Period | minusDays(long daysToSubtract) | Returns a copy of this period with the specified days subtracted.|
+|Period |	minusMonths(long monthsToSubtract) | Returns a copy of this period with the specified months subtracted.|
+|Period |	minusYears(long yearsToSubtract) | Returns a copy of this period with the specified years subtracted. |
+|Period |	multipliedBy(int scalar) | Returns a new instance with each element in this period multiplied by the specified scalar.|
+|Period |	negated() | Returns a new instance with each amount in this period negated. |
+|Period |	normalized() | Returns a copy of this period with the years and months normalized. |
+|static Period |	of(int years, int months, int days) | Obtains a Period representing a number of years, months and days. |
+|static Period |	ofDays(int days)Obtains a Period representing a number of days.
+|static Period |	ofMonths(int months)Obtains a Period representing a number of months.
+|static Period |	ofWeeks(int weeks)Obtains a Period representing a number of weeks.
+|static Period |	ofYears(int years)Obtains a Period representing a number of years.
+|static Period |	parse(CharSequence text)Obtains a Period from a text string such as PnYnMnD.
+|Period |	plus(TemporalAmount amountToAdd)Returns a copy of this period with the specified period added.
+|Period |	plusDays(long daysToAdd)Returns a copy of this period with the specified days added.
+|Period |	plusMonths(long monthsToAdd)Returns a copy of this period with the specified months added.
+|Period |	plusYears(long yearsToAdd)Returns a copy of this period with the specified years added.
+|Temporal |	subtractFrom(Temporal temporal)Subtracts this period from the specified temporal object.
+|String | toString()Outputs this period as a String, such as P6Y3M1D.
+|long |	toTotalMonths()Gets the total number of months in this period.
+|Period |	withDays(int days)Returns a copy of this period with the specified amount of days.
+|Period |	withMonths(int months)Returns a copy of this period with the specified amount of months.
+|Period |	withYears(int years)Returns a copy of this period with the specified amount of years.
