@@ -49,17 +49,18 @@
 #### Period
 |Modifier and Type| Method and Description|
 | --- | --- |
-|Temporal |	addTo(Temporal temporal) ||Adds this period to the specified temporal object.
-|static Period |	between(LocalDate startDateInclusive, LocalDate endDateExclusive) ||Obtains a Period consisting of the number of years, months, and days between two dates.|
-|boolean 	equals(Object obj)
-|Checks if this period is equal to another period.
-|static Period 	from(TemporalAmount amount)
-|Obtains an instance of Period from a temporal amount.
-|long 	get(TemporalUnit unit)
-|Gets the value of the requested unit.
-|IsoChronology 	getChronology()
-|Gets the chronology of this period, which is the ISO calendar system.
-|int 	getDays()
+|Temporal |addTo(Temporal temporal) Adds this period to the specified temporal object.|
+|static Period|	between(LocalDate startDateInclusive, LocalDate endDateExclusive)|
+Obtains a Period consisting of the number of years, months, and days between two dates.
+boolean 	equals(Object obj)
+Checks if this period is equal to another period.
+static Period 	from(TemporalAmount amount)
+Obtains an instance of Period from a temporal amount.
+long 	get(TemporalUnit unit)
+Gets the value of the requested unit.
+IsoChronology 	getChronology()
+Gets the chronology of this period, which is the ISO calendar system.
+int 	getDays()
 Gets the amount of days of this period.
 int 	getMonths()
 Gets the amount of months of this period.
