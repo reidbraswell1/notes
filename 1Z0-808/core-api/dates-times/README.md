@@ -34,3 +34,8 @@
 |2017-01-01| Calendar cal = Calendar.getInstance();<br/>cal.set(2017, Calendar.JANUARY, 1);<br/>Date jan = cal.getTime(); | LocalDate jan = LocalDate.of(2017,Month.JANUARY,1);|
 |2017-01-01<br/>1a.| Calendar cal = new GregorianCalendar(2017,Calendar.JANUARY, 1);<br/>Date jan = cal.getTime(); | --- |
 |2017-01-01<br/>1b.| Calendar cal = Calendar.getInstance();<br/>cal.set(2017,0, 1);<br/>Date jan = cal.getTime(); | LocalDate jan = LocalDate.of(2017, 1, 1); |
+
+#### Date Manipulation
+|Method|Description|
+| --- | ---|
+|plusDays()|Add the number of days to the date.|
