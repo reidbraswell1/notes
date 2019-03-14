@@ -47,11 +47,10 @@
 |plusYears()<br/>minusYears()|Add/Subtract the number of years to the date.|
 
 #### Period
-|Modifier and Type| Method and Description|
-| --- | --- |
-|Temporal |addTo(Temporal temporal) Adds this period to the specified temporal object.|
-|static Period|	between(LocalDate startDateInclusive, LocalDate endDateExclusive)|
-Obtains a Period consisting of the number of years, months, and days between two dates.
+|Modifier and Type| Method | Description|
+| --- | --- | --- |
+|Temporal |addTo(Temporal temporal) |Adds this period to the specified temporal object.|
+|static Period|	between(LocalDate startDateInclusive, LocalDate endDateExclusive)|Obtains a Period consisting of the number of years, months, and days between two dates.|
 boolean 	equals(Object obj)
 Checks if this period is equal to another period.
 static Period 	from(TemporalAmount amount)
