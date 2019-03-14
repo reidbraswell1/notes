@@ -93,8 +93,11 @@
   
   
 ### Formatting Dates and Times
+``java
+  import java.time.format.*;
+```
 |Class | Description |
 | --- | --- |
-|DateTimeFormatter | Formatter for printing and parsing date-time objects. |
+|**DateTimeFormatter** | Formatter for printing and parsing date-time objects. |
 |DateTimeFormatterBuilder | Builder to create date-time formatters. |
 |DecimalStyle | Localized decimal style used in date and time formatting. |
