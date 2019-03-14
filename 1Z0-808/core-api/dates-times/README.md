@@ -9,9 +9,9 @@
 |Clock | A clock providing access to the current instant, date and time using a time-zone. |
 |Duration | A time-based amount of time, such as '34.5 seconds'. |
 |Instant | An instantaneous point on the time-line. |
-|LocalDate | A date without a time-zone in the ISO-8601 calendar system, such as 2007-12-03. |
-|LocalDateTime | A date-time without a time-zone in the ISO-8601 calendar system, such as 2007-12-03T10:15:30. |
-|LocalTime | A time without a time-zone in the ISO-8601 calendar system, such as 10:15:30. |
+|**LocalDate** | A date without a time-zone in the ISO-8601 calendar system, such as 2007-12-03. |
+|**LocalDateTime** | A date-time without a time-zone in the ISO-8601 calendar system, such as 2007-12-03T10:15:30. |
+|**LocalTime** | A time without a time-zone in the ISO-8601 calendar system, such as 10:15:30. |
 |MonthDay | A month-day in the ISO-8601 calendar system, such as --12-03.|
 |OffsetDateTime | A date-time with an offset from UTC/Greenwich in the ISO-8601 calendar system, such as 2007-12-03T10:15:30+01:00.|
 |OffsetTime | A time with an offset from UTC/Greenwich in the ISO-8601 calendar system, such as 10:15:30+01:00. |
