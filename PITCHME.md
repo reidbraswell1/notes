@@ -1,3 +1,5 @@
+---?color=#e49436
+
 ##### Test Slide 1
 
 ---
@@ -6,4 +8,4 @@
 
 ---
 
-### Test Slide 3
+##### Test Slide 3
