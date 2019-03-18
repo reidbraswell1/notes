@@ -2,7 +2,7 @@
 
 ##### Test Slide 1
 
----?color=00e1c2
+---?color=#00e1c2
 
 ##### Test Slide 2
 
