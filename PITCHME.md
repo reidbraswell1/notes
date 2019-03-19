@@ -5,7 +5,7 @@
 
 ---?color=#00e1c2
 
-##### @css[border: 1px solid black](Test Slide 2)
+##### @color[green](Test Slide 2)
 
 +++
 
