@@ -1,5 +1,3 @@
-theme-override : assets/css/custom.css
-
 ---?color=#e49436
 
 ##### @color[#FF0000](Test Slide 1)
