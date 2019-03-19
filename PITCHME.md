@@ -9,4 +9,4 @@
 
 +++
 
-##### @css[border](Test Slide 3)
+##### @css[blue](Test Slide 3)
