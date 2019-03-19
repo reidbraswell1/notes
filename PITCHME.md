@@ -1,6 +1,6 @@
 ---?color=#e49436
 
-##### @color[#ff0000]Test Slide 1
+##### @color[#DC143C] Test Slide 1
 
 
 ---?color=#00e1c2
