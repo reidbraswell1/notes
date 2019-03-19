@@ -1,3 +1,5 @@
+theme-override : assets/css/custom.css
+
 ---?color=#e49436
 
 ##### @color[#FF0000](Test Slide 1)
@@ -9,4 +11,4 @@
 
 +++
 
-##### Test Slide 3
+##### @css[border](Test Slide 3)
