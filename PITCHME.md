@@ -1,7 +1,6 @@
 ---?color=#e49436
 
-##### @color[red]Test Slide 1
-#### d - @color[#DC143C](Short Fuses) Included!
+##### @color[#ff0000]Test Slide 1
 
 
 ---?color=#00e1c2
