@@ -1,7 +1,7 @@
 ### Core API's
 
 1. [Strings](strings/README.md)
-1. [String Builder]()
+1. [String Builder](string-builder/README.md)
 1. [Equality]()
 1. [Arrays]()
 1. [Array List]()
