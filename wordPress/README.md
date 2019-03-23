@@ -12,4 +12,5 @@ chmod 755 $HOME/public_html
 default Apache uses /var/www as document root
 <br>
 #### Display from public_html in user directory
+* Create a public_html directory inside of the user's home directory and give it 755 permissions.
 * Point the browser to localhost/~username/
