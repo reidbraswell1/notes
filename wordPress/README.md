@@ -4,6 +4,8 @@
 
 [Ubuntu WordPress Install](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-18-04)
 
+[Ubuntu WordPress Install](https://www.tecmint.com/install-wordpress-on-ubuntu-16-04-with-lamp)
+
 ##### Restarting Apache 2
 ```bash
 sudo service apache2 restart
