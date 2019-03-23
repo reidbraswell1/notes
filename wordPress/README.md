@@ -11,6 +11,12 @@ chmod 755 $HOME/public_html
 <br>
 default Apache uses /var/www as document root
 <br>
+
+#### To display php scripts from a user directory
+* Edit your current version of php config file example: 
+```bash
+sudo nano /etc/apache2/mods-available/php7.2.conf
+```
 #### Display from public_html in user directory
 * Create a public_html directory inside of the user's home directory and give it 755 permissions.
 * Point the browser to localhost/~username/
