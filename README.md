@@ -6,3 +6,4 @@
 1. [Git Commands](git/README.md)
 1. [1Z0-808](1Z0-808/README.md)
 1. [WordPress](wordPress/README.md)
+1. [SQL](sql/README.md)
