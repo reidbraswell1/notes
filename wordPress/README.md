@@ -19,6 +19,10 @@ default Apache uses /var/www as document root
 sudo nano /etc/apache2/mods-available/php7.2.conf
 ```
 #### Display from public_html in user directory
+* Default Apache Root Directory
+```bash
+/var/www
+```
 * Create a public_html directory inside of the user's home directory and give it 755 permissions.
 ```bash
 chmod 755 $HOME/public_html
