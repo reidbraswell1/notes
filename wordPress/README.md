@@ -1,6 +1,6 @@
 ### Installing WordPress on Ubuntu
 
-<a href="https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-18-04" target="_blank">Ubuntu WordPress Install</a>
+[Ubuntu WordPress Install](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-18-04){:target="_blank"}
 
 ##### Restarting Apache 2
 ```bash
