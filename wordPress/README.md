@@ -8,3 +8,4 @@ sudo systemctl restart apache2
 ```
 
 chmod 755 $HOME/public_html
+default Apache uses /var/www as document root
