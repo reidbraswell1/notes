@@ -1,10 +1,8 @@
 # Notes 
 
-[C#](csharp/README.md)
-<br>
-[Dev Docs](https://devdocs.io)
-<br>
-[Java](java/README.md)
+1. [C#](csharp/README.md)
+1. [Dev Docs](https://devdocs.io)
+1. [Java](java/README.md)
 <br>
 [Git Commands](git/README.md)
 <br>
