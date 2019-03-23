@@ -20,4 +20,7 @@ sudo nano /etc/apache2/mods-available/php7.2.conf
 ```
 #### Display from public_html in user directory
 * Create a public_html directory inside of the user's home directory and give it 755 permissions.
+```bash
+chmod 755 $HOME/public_html
+```
 * Point the browser to localhost/~username/
