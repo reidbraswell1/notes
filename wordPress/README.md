@@ -1,5 +1,7 @@
 ### Installing WordPress on Ubuntu
 
+* Move the wordpress folder to /var/www after installing apache2
+
 [Ubuntu WordPress Install](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-18-04)
 
 ##### Restarting Apache 2
