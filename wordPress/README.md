@@ -15,6 +15,7 @@ default Apache uses /var/www as document root
 #### To display php scripts from a user directory
 * Edit your current version of php config file example: 
 ```bash
+# php7.2 is installed but your version might be different
 sudo nano /etc/apache2/mods-available/php7.2.conf
 ```
 #### Display from public_html in user directory
