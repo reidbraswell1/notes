@@ -12,7 +12,11 @@
 <body>
     <nav>
     </nav>
-  The content of the document......
+    <div>
+      <p>The content of the document......</p>
+    </div>
+    <footer>
+    </footer>
 </body>
 
 </html>
