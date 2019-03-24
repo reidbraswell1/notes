@@ -19,6 +19,7 @@
 
 <body>
     <nav>
+      <!-- Basic Navigation Links For the Document -->
     </nav>
   
     <div>
