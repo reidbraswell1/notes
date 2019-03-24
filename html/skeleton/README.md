@@ -6,14 +6,19 @@
   <head>
     <!-- Describes the character set encoding of the document -->
     <meta charset="utf-8">
+    
     <!-- External Stylesheet Link -->
     <link rel="stylesheet" type="text/css" href="style.css">
+    
     <title>Title of the document</title>
+    
     <!-- Further describes the document -->
     <meta name="author" content="">
     <meta name="description" content="">
+    
     <!--Visible area of the page - varies depending on the device used -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <!-- Internal Style optional -->
     <style>
     </style>
