@@ -10,6 +10,8 @@
   </head>
 
 <body>
+    <nav>
+    </nav>
   The content of the document......
 </body>
 
