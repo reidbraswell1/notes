@@ -6,6 +6,8 @@
   <head>
     <!-- Describes the character set encoding of the document -->
     <meta charset="utf-8">
+    <!-- External Stylesheet Link -->
+    <link rel="stylesheet" type="text/css" href="style.css">
     <title>Title of the document</title>
     <!-- Further describes the document -->
     <meta name="author" content="">
