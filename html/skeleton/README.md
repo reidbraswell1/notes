@@ -12,7 +12,7 @@
     <!-- Further describes the document -->
     <meta name="author" content="">
     <meta name="description" content="">
-    <!--Visible area of the page -- varies depending on the device used -->
+    <!--Visible area of the page \-- varies depending on the device used -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Internal Style optional -->
     <style>
