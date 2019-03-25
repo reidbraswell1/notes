@@ -47,5 +47,6 @@ chmod 755 $HOME/public_html
 ```bash
   sudo apt-get install php7.2-mysqlnd
 ```
+* [WordPress setup screen](WordPressSetup.png)
 
 
