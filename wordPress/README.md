@@ -6,6 +6,8 @@
 
 [Ubuntu WordPress Install](https://www.tecmint.com/install-wordpress-on-ubuntu-16-04-with-lamp)
 
+[WordPress Directory Structure](https://www.wpbeginner.com/beginners-guide/beginners-guide-to-wordpress-file-and-directory-structure/)
+
 ##### Restarting Apache 2
 ```bash
 sudo service apache2 restart
