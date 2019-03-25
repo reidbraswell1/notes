@@ -40,3 +40,7 @@ chmod 755 $HOME/public_html
 ```url
   http://localhost/wp-admin/setup-config.php
 ```  
+* Error message
+```code
+  Your PHP installation appears to be missing the MySQL extension which is required by WordPress.
+```  
