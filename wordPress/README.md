@@ -36,3 +36,7 @@ chmod 755 $HOME/public_html
   cp wp-config-sample.php wp-config.php
 ```  
 * .htaccess file - used  by Apache Server
+* WordPress setup url 
+```url
+  http://localhost/wp-admin/setup-config.php
+```  
