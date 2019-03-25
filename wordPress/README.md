@@ -29,3 +29,7 @@ sudo nano /etc/apache2/mods-available/php7.2.conf
 chmod 755 $HOME/public_html
 ```
 * Point the browser to localhost/~username/
+* Copy the wordpress config file wp-config-sample.php to wp-config.php
+```bash
+  cp wp-config-sample.php wp-config.php
+```  
