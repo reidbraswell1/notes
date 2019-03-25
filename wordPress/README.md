@@ -40,7 +40,7 @@ chmod 755 $HOME/public_html
 ```url
   http://localhost/wp-admin/setup-config.php
 ```  
-* Error message - Added mysqlnd extension
+* Error message - Added mysqlnd extension [Missing MySQL extension](https://bobcares.com/blog/fix-wordpress-error-php-installation-missing-mysql-extension/)
 ```code
   Your PHP installation appears to be missing the MySQL extension which is required by WordPress.
 ```
