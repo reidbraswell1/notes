@@ -35,3 +35,4 @@ chmod 755 $HOME/public_html
 ```bash
   cp wp-config-sample.php wp-config.php
 ```  
+* .htaccess file - used  by Apache Server
