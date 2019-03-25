@@ -5,6 +5,9 @@
 2. Show Databases
 ```mysql
   SHOW DATABASES;
+  SHOW {DATABASES | SCHEMAS}
+    [LIKE 'pattern' | WHERE expr]
+
 ```
 3. Grant
 ```mysql
