@@ -5,4 +5,5 @@
 2. Show Databases
 ```mysql
   SHOW DATABASES;
-```  
+```
+
