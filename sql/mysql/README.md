@@ -6,4 +6,8 @@
 ```mysql
   SHOW DATABASES;
 ```
+3. Grant
+```mysql
+  GRANT ALL PRIVILEGES ON database_name.* TO 'user'@'host_name' IDENTIFIED BY 'password';
+```
 
