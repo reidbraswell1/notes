@@ -40,7 +40,12 @@ chmod 755 $HOME/public_html
 ```url
   http://localhost/wp-admin/setup-config.php
 ```  
-* Error message
+* Error message - Added mysqlnd extension
 ```code
   Your PHP installation appears to be missing the MySQL extension which is required by WordPress.
-```  
+```
+```bash
+  sudo apt-get install php7.2-mysqlnd
+```
+
+
