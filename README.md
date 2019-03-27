@@ -1,11 +1,5 @@
-# Notes 
-
-1. [C#](csharp/README.md)
-1. [Dev Docs](https://devdocs.io)
-1. [Java](java/README.md)
-1. [Git Commands](git/README.md)
-1. [1Z0-808](1Z0-808/README.md)
-1. [WordPress](wordPress/README.md)
-1. [SQL](https://github.com/reidbraswell1/notes/tree/sql)
-1. [HTML](html/README.md)
-1. [CMS - Content Management Systems](cms/README.md)
+* [GET USER DIRECTORIES](system/README.md) - [OTHER SYSTEM PROPERTIES](https://docs.oracle.com/javase/tutorial/essential/environment/sysprop.html)
+* [HIBERNATE](hibernate/README.md)
+* [PRINT STACK TRACE TO STRING](string/README.md)
+* [PROPERTIES FILE](properties/README.md)
+* [STRING CLASS SE9 JDK9](https://docs.oracle.com/javase/9/docs/api/java/lang/String.html) 
