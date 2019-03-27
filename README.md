@@ -22,3 +22,7 @@
 1. Atlantic.net
 
 [Cloud Service Providers](https://clutch.co/cloud)
+<br>
+[Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
+<br>
+[Cloud Computing Providers](https://en.wikipedia.org/wiki/Category:Cloud_computing_providers)
