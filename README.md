@@ -1,11 +1,24 @@
-# Notes 
+# Cloud Service Providers
 
-1. [C#](csharp/README.md)
-1. [Dev Docs](https://devdocs.io)
-1. [Java](java/README.md)
-1. [Git Commands](git/README.md)
-1. [1Z0-808](1Z0-808/README.md)
-1. [WordPress](wordPress/README.md)
-1. [SQL](https://github.com/reidbraswell1/notes/tree/sql)
-1. [HTML](html/README.md)
-1. [CMS - Content Management Systems](cms/README.md)
+1. Amazon Web Services
+1. Microsoft Azure
+1. Google Cloud Platform
+1. IBM Cloud
+1. Rackspace
+1. GoDaddy
+1. Verizon Cloud
+1. VMware
+1. Oracle Cloud
+1. 1&1
+1. DigitalOcean
+1. Red Hat
+1. MageCloud eCommerce
+1. InMotion Hosting
+1. CloudSigma
+1. Hyve
+1. Ubiquity Hosting
+1. Hostinger 
+1. Togglebox
+1. Atlantic.net
+
+[Cloud Service Providers](https://clutch.co/cloud)
