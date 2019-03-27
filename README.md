@@ -23,6 +23,6 @@
 
 [Cloud Service Providers](https://clutch.co/cloud)
 <br>
-[Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
+[Cloud Computing - wiki](https://en.wikipedia.org/wiki/Cloud_computing)
 <br>
-[Cloud Computing Providers](https://en.wikipedia.org/wiki/Category:Cloud_computing_providers)
+[Cloud Computing Providers - wiki](https://en.wikipedia.org/wiki/Category:Cloud_computing_providers)
