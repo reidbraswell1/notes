@@ -9,4 +9,4 @@
 9. [Element Ordering in a Class]()
 10. [Destroying Objects GC]()
 
-[Back](https://github.com/reidbraswell1/notes/tree/1Z0-808)
+[Back](../../../tree/1Z0-808)
