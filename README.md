@@ -1,6 +1,6 @@
 # Notes 
 
-1. [C#](../../tree/c%23/README.md)
+1. [C#](../../tree/c%23/)
 1. [Dev Docs](https://devdocs.io)
 1. [Java](https://github.com/reidbraswell1/notes/tree/java)
 1. [Git Commands](git/README.md)
