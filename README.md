@@ -5,7 +5,7 @@
 1. [Java](../../tree/java)
 1. [Git Commands](git/README.md)
 1. [1Z0-808](../../tree/1Z0-808)
-1. [WordPress](wordPress/README.md)
+1. [WordPress](../../tree/wordPress/)
 1. [SQL](../../tree/sql)
 1. [HTML](html/README.md)
 1. [CMS - Content Management Systems](cms/README.md)
