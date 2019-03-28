@@ -49,4 +49,6 @@ chmod 755 $HOME/public_html
 ```
 * [WordPress setup screen](WordPressSetupScreen.png)
 
+[Back](../../tree/master)
+
 
