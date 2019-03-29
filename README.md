@@ -12,4 +12,4 @@
 1. Which spring version introduced Spring Expression Language ? __3.0__
 1. Which class would represent the spring IoC (Inversion of Control) container ? __Application Context__
 1. How would you use the idref (pass the id of a bean to another bean) in spring framework ? __setter method and constructor argument__
-1. How do you use the <ref> tag in spring ? 
+1. How do you use the "<ref>" tag in spring ?  __bean id__ 
