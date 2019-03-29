@@ -11,3 +11,4 @@
 1. In which Spring version were Java 5 features introduced ? __3.0__
 1. Which spring version introduced Spring Expression Language ? __3.0__
 1. Which class would represent the spring IoC (Inversion of Control) container ? __Application Context__
+1. How would you use the idref (pass the id of a bean to another bean) in spring framework ? __setter method and constructor argument__
