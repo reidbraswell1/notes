@@ -1,5 +1,5 @@
 # Notes 
-
+<hr>
 1. [C#](../../tree/c%23/)
 1. [Dev Docs](https://devdocs.io)
 1. [Java](../../tree/java)
