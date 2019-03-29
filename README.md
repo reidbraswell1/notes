@@ -8,4 +8,4 @@
 1. [WordPress](../../tree/wordpress/)
 1. [SQL](../../tree/sql)
 1. [HTML](../../tree/html/)
-1. [CMS - Content Management Systems](../../tree/cms/README.md)
+1. [CMS - Content Management Systems](../../tree/cms/)
