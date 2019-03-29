@@ -1,3 +1,3 @@
-```shell
-$ git push origin your_branch
+```bash
+  git push origin your_branch
 ```
