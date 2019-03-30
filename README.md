@@ -7,7 +7,7 @@
 1. Is Spring Framework a lightweight or heavyweight solution ?  __lightweight__
 1. Is AOP (Aspect Oriented Programming) part of the core container in Spring Framework ? __Spring IoC (Inversion of Control) container does not depend on AOP__
 1. Is expression language part of the core container ? __Yes__
-1. Is JMS part of the Data Access Layer in Spring ? __Yes__
+1. Is JMS (Java Message Service) part of the Data Access Layer in Spring ? __Yes__
 1. Can Spring and Struts be integrated ? __Spring can be integrated with Struts 2__
 1. How do you get the object of DAO (Data Access Object) in Spring Framework ? __dependency injection__
 1. In which Spring version were Java 5 features introduced ? __3.0__
