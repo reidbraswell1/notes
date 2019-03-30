@@ -23,3 +23,12 @@
 1. Is a spring bean autowired (default) ? __yes__
 1. ApplicationContextAware does what ? __makes a bean aware to the container__
 1. Scope of a stateless bean ? __Singleton__
+1. In which scope can only a single bean created ? __singleton__
+1. In which scope can any number of instances of a bean be created ? __prototype__
+1. If a bean is limited only to HTTP request what is that called ? __request scope__
+1. If a bean is limited only to HTTP session what is that called ? __session scope__
+1. What is the scope for portlet context ? __global session scope__
+1. In which version was thread scope introduced ? __3.0__
+1. What is a gracefull way of shutting down the Spring IoC containger in non-web applications ? __registerShutdownHook()__
+1. What would be a good way of controlling a bean lifescycle in spring ? __InitializingBean and DisposableBean also init() method__ 
+
