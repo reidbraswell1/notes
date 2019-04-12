@@ -12,3 +12,4 @@
 1. [CSP - Cloud Service Providers](../../tree/csp/)
 1. [CMS - Content Management Systems](../../tree/cms/)
 1. [PITCHME - Slide Production](../../tree/pitchme/)
+1. [Static Website Hosting](../../tree/webHosting/)
