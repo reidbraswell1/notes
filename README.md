@@ -1,2 +1,2 @@
 ### Git Pitch Documentation
-[Git Pitchme](https://gitpitch.com/docs/about/)
+[Pitchme Doc](https://gitpitch.com/docs/about/)
