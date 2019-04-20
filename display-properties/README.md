@@ -5,7 +5,9 @@
   - h1 - h6
   - p
   - footer
+  
 [Block Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)  
+
 - **inline** - does not start on a new line. Examples:
   - span
   - img
