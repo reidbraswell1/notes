@@ -5,7 +5,7 @@
   - h1 - h6
   - p
   - footer
-- **inline** - does not start on a new line.
+- **inline** - does not start on a new line. Examples:
   - span
   - img
   - input
