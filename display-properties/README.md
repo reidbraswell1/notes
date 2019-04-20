@@ -6,4 +6,9 @@
   - p
   - footer
 - **inline** - does not start on a new line.
+  - span
+  - img
+  - input
+  - label
+  - a
 - **inline-block** - does not start on a new line. Margins and padding can be added on all 4 sides.
