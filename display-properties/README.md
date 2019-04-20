@@ -11,6 +11,7 @@
   - input
   - label
   - a
-<br/>
+  
 [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
+
 - **inline-block** - does not start on a new line. Margins and padding can be added on all 4 sides.
