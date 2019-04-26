@@ -1,6 +1,6 @@
 ### Java Design Patterns
 
-1. [Singleton Design Pattern](singleton/README.md)
+1. [Singleton Design Pattern](https://www.geeksforgeeks.org/singleton-design-pattern/)
 1. Factory Design Pattern
 1. Decorator Design Pattern
 1. Composite Design Pattern
