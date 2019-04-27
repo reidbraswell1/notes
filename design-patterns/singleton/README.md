@@ -36,3 +36,47 @@ class Singleton
 	} 
 }
 ```
+### Singleton - Classic Eager Initialization - created when class is loaded
+```java
+class Singleton 
+{ 
+	private static Singleton instance = new Singleton(); 
+
+	// private constructor
+        // object can only be created by calling getInstance()
+	private Singleton() {
+        } 
+
+	public static Singleton getInstance() 
+	{
+		return instance; 
+	} 
+}
+```
+### Singleton - Double Checked Locking
+```java
+class Singleton 
+{ 
+	private static volatile Singleton instance; 
+
+	// private constructor
+        // object can only be created by calling getInstance()
+	private Singleton() {
+        } 
+
+	public static Singleton getInstance() 
+	{
+		if (instance==null)
+		{
+		    // thread safety
+		    synchronized(Singleton.class) 
+		    {
+		    	// double check
+		    	if (instance==null)
+                            instance = new Singleton();
+                    }
+		}
+	        return instance;
+	} 
+}
+```
