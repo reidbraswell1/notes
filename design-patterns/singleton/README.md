@@ -81,4 +81,4 @@ class Singleton
 	} 
 }
 ```
-[Back](../../../tree/java/design-patterns/)
+[Back](../../../tree/java/)
