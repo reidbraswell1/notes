@@ -57,6 +57,7 @@ class Singleton
 ```java
 class Singleton 
 { 
+        // write variable to main memory not to CPU cache
 	private static volatile Singleton instance; 
 
 	// private constructor
