@@ -1,4 +1,4 @@
-*** Singleton - Classic Not Thread Safe
+### Singleton - Classic Not Thread Safe
 ```java
 class Singleton 
 { 
