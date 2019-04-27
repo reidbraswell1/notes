@@ -81,3 +81,4 @@ class Singleton
 	} 
 }
 ```
+[Back](../design-patterns/README.md)
