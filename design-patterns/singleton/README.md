@@ -17,7 +17,7 @@ class Singleton
 	} 
 }
 ```
-### Singleton - Synchronized - may decrease performance
+### Singleton - Classic Synchronized Thread Safe - may decrease performance
 ```java
 class Singleton 
 { 
