@@ -7,7 +7,7 @@ class Singleton
 	// private constructor
         // object can only be created by calling getInstance()
 	private Singleton() {
-  } 
+        } 
 
 	public static Singleton getInstance() 
 	{ 
