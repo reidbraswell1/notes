@@ -1,18 +1,15 @@
-# Notes 
+### Extensions
 
-1. [C#](../../tree/c%23/)
-1. [Dev Docs](https://devdocs.io)
-1. [Java](../../tree/java)
-1. [Spring](../../tree/spring)
-1. [Git Commands](../../tree/git/)
-1. [1Z0-808](../../tree/1Z0-808)
-1. [WordPress](../../tree/wordpress/)
-1. [SQL](../../tree/sql)
-1. [HTML](../../tree/html/)
-1. [CSS](../../tree/css/)
-1. [CSP - Cloud Service Providers](../../tree/csp/)
-1. [CMS - Content Management Systems](../../tree/cms/)
-1. [PITCHME - Slide Production](../../tree/pitchme/)
-1. [Static Website Hosting](../../tree/webHosting/)
-1. [Git Hub Pages](https://pages.github.com/)
-1. [VS Code](../../tree/vscode/)
+1. C# for Visual Studio Code (Omnisharp).
+1. C# IDE Extensions for VSCode
+1. A lightweight Java debugger for Visual Studio Code - Microsoft
+1. Github build status - 
+1. GitLens
+1. Java Debug 
+1. Java Extension Pack - Microsoft
+1. Java Test Runner
+1. Language Support for Java(TM) by Red Hat
+1. Maven for Java
+1. NuGet Package Manager
+1. Vim emulation for Visual Studio Code
+
