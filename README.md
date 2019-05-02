@@ -41,6 +41,9 @@
   - W3C (World Wide Web Consortium https://www.w3.org) - defines and dictates the standards.
 * Specifications.
   - Basic
+    * SOAP
+    * WSDL
+    * UDDI
   - Extended
 
 
