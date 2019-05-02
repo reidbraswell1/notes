@@ -6,6 +6,7 @@
 1. [Client Server model](#client-server)
 1. [Types of web services - SOAP/REST](#types)
 1. [Components of Web Services - WSDL, UDDI](#components)
+1. [SOAP Web Services](#soap)
 
 <hr/>
 
@@ -34,6 +35,9 @@
 #### <a id="components">Components of Web Services</a>
 * WSDL - Web Services Description Language - An XML based interface that describes the functionalities of Web Services.
 * UDDI - Universal Description, Discovery and Integration. - An XML based standard for publishing and finding web services.
+
+#### <a id="soap">SOAP Web Services</a>
+
 
 [Back](../../tree/master)
 
