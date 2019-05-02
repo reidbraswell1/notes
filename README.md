@@ -4,7 +4,7 @@
 1. [Basic concept behind web services]()
 1. [Why use it?](#why)
 1. [Client Server model](#client-server)
-1. [Types of web services - SOAP/REST]()
+1. [Types of web services - SOAP/REST](#types)
 
 <hr/>
 
@@ -21,6 +21,10 @@
 * Client sends request to the Server (service provider)
 * Medium HTTP / Internet
 * Format XML/JSON
+
+#### <a id="types">Types of Web Services</a>
+* SOAP - Simple Object Access Protocol
+* REST - Representational State Transfer
 
 [Back](../../tree/master)
 
