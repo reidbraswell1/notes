@@ -3,7 +3,7 @@
 1. [What is a web service?](#definition)
 1. [Basic concept behind web services]()
 1. [Why use it?](#why)
-1. [Client Server model]()
+1. [Client Server model](#client-server)
 1. [Types of web services - SOAP/REST]()
 
 <hr/>
@@ -16,6 +16,11 @@
 #### <a id="why">Why Use WebServices -
 * platform independent communication.
 * allows two different applications to talk to each other and exchange information.
+  
+#### <a id="client-server">Client Server Model</a>
+* Client sends request to the Server (service provider)
+* Medium HTTP / Internet
+* Format XML/JSON
 
 [Back](../../tree/master)
 
