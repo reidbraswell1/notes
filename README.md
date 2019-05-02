@@ -45,6 +45,9 @@
     * WSDL
     * UDDI
   - Extended
+    - WS-Security
+    - WS-Policy
+    - ...
 
 
 [Back](../../tree/master)
