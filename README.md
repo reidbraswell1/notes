@@ -7,7 +7,8 @@
 <hr/>
 
 #### <a id="definition">WebService -</a> 
-* Enables communucation between applications on the web.
+* enables communucation between applications on the web.
+* provides a standard protocol/format for communication.
 
 [Back](../../tree/master)
 
