@@ -7,11 +7,11 @@
 <hr/>
 
 #### <a id="definition">WebService -</a> 
-- enables communucation between applications on the web.
+* enables communucation between applications on the web.
 * provides a standard protocol/format for communication.
 * service available over the web.
-* platform independent communication.
-* allows two different applications to talk to each other and exchange information.
+- platform independent communication.
+- allows two different applications to talk to each other and exchange information.
 
 [Back](../../tree/master)
 
