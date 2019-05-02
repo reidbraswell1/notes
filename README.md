@@ -50,6 +50,8 @@
     - ...
 * Format
   - XML
+* Defined Structure
+  - SOAP Message
 
 
 [Back](../../tree/master)
