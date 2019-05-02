@@ -53,8 +53,8 @@
 * Defined Structure
   - SOAP Message
     * Envelope
-    * Header
-    * Body
+      * Header
+      * Body
 
 
 [Back](../../tree/master)
