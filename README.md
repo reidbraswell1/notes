@@ -52,6 +52,9 @@
   - XML
 * Defined Structure
   - SOAP Message
+    * Envelope
+    * Header
+    * Body
 
 
 [Back](../../tree/master)
