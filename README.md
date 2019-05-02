@@ -11,7 +11,7 @@
 * provides a standard protocol/format for communication.
 * service available over the web.
 
-### <a id="why">Why Use WebServices -
+#### <a id="why">Why Use WebServices -
 * platform independent communication.
 * allows two different applications to talk to each other and exchange information.
 
