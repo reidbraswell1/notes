@@ -25,6 +25,8 @@
 #### <a id="types">Types of Web Services</a>
 * SOAP - Simple Object Access Protocol
 * REST - Representational State Transfer
+** Medium HTTP (POST,GET,PUT,DELETE,...)
+** Format XML/JSON/TEXT
 
 [Back](../../tree/master)
 
