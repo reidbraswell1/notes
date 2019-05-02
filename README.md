@@ -53,8 +53,11 @@
 * Defined Structure
   - SOAP Message
     * Envelope
-      * Header
-      * Body
+      * Header - Information about the message itself.
+        - Authentication
+        - Complex Types
+        - Routing
+      * Body - Actual data of the request.
 
 
 [Back](../../tree/master)
