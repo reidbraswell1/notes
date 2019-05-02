@@ -5,6 +5,7 @@
 1. [Why use it?](#why)
 1. [Client Server model](#client-server)
 1. [Types of web services - SOAP/REST](#types)
+1. [Components of Web Services - WSDL, UDDI](#components)
 
 <hr/>
 
@@ -29,6 +30,10 @@
 * REST - Representational State Transfer
   - Medium HTTP (POST,GET,PUT,DELETE,...)
   - Format XML/JSON/TEXT
+  
+#### <a id="components">Components of Web Services</a>
+* WSDL - Web Services Description Language - An XML based interface that describes the functionalities of Web Services.
+* UDDI - Universal Description, Discovery and Integration. - An XML based standard for publishing and finding web services.
 
 [Back](../../tree/master)
 
