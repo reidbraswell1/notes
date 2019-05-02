@@ -48,6 +48,8 @@
     - WS-Security
     - WS-Policy
     - ...
+* Format
+  - XML
 
 
 [Back](../../tree/master)
