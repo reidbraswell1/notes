@@ -3,6 +3,8 @@
 1. [What is a web service?](#definition)
 1. [Basic concept behind web services]()
 1. [Why use it?](#why)
+1. [Client Server model]()
+1. [Types of web services SOAP/REST]()
 
 <hr/>
 
