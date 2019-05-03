@@ -53,7 +53,7 @@
     - WS-Policy
     - ...
 * Format
-```xml
+```soap
 <?xml verstion="1.0"?>
 <soap:Envelope 
       xmlns soap="http://www.w3.org/2001/12/soap-envelope"
