@@ -53,7 +53,18 @@
     - WS-Policy
     - ...
 * Format
-  - XML
+```xml
+<?xml verstion="1.0"?>
+<soap:Envelope 
+      xmlns soap="http://www.w3.org/2001/12/soap-envelope"
+      soap:encodingStyle="www.w3.org/2001/12/soap-encoding">
+  <soap:body pb="http://www.example.com/employees">
+    <pb:GetEmployee>
+      <pb:EmpId>123</pb:EmpId>
+    </pb:GetEmployee>
+  </soap:body>
+</soap:Envelope>
+```
 * Defined Structure
   - SOAP Message
     * Envelope
