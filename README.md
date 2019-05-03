@@ -98,7 +98,7 @@
   - Cacheable
   - Layered
   - Code on Demand
-* Format
+* Format - Using GET
 ```rest
 http://example.com/employees/123
 ```
