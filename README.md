@@ -65,8 +65,17 @@
 * REST - Representational State Transfer (architectural style) - Allows communication between 2 applications using REST architecture.
 * Principles
   - Uniform interface
+    - Resource - anything can be a resource
+    - URI - resource can be accessed by uri
+    - HTTP -make use of HTTP methods
+      * GET - Read
+      * POST - Add
+      * PUT - Update
+      * DELETE - Delete
   - Stateless
   - Cacheable
+  - Layered
+  - Code on Demand
 
 
 [Back](../../tree/master)
