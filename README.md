@@ -98,6 +98,10 @@
   - Cacheable
   - Layered
   - Code on Demand
+* Format
+```rest
+http://example.com/employees/123
+```
 
 
 [Back](../../tree/master)
