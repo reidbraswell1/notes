@@ -97,6 +97,8 @@
   - Stateless
     - Communications are stateless (server does not maintain any state of the system - each request must contain all of the data needed for the request) 
   - Cacheable
+    * Caching occurs at the client side
+      * Cache-Control header to indicate whether to cache or not
   - Layered
   - Code on Demand
 * Format - Using GET
