@@ -100,6 +100,10 @@
     * Caching occurs at the client side
       * Cache-Control header to indicate whether to cache or not
   - Layered
+    * Multiple layers can exist between client and server
+      * Proxies
+      * Gateways
+      * etc
   - Code on Demand
 * Format - Using GET
 ```rest
