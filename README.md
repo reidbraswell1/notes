@@ -95,6 +95,7 @@
       * authentication
       * etc
   - Stateless
+    - Communications are stateless (server does not maintain any state of the system - each request must contain all of the data needed for the request) 
   - Cacheable
   - Layered
   - Code on Demand
