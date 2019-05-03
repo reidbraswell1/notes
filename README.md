@@ -63,6 +63,10 @@
 #### <a id="rest">REST Web Services</a>
 
 * REST - Representational State Transfer (architectural style) - Allows communication between 2 applications using REST architecture.
+* Principles
+  - Uniform interface
+  - Stateless
+  - Cacheable
 
 
 [Back](../../tree/master)
