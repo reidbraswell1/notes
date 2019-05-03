@@ -29,6 +29,9 @@
 * SOAP - Simple Object Access Protocol
   - Medium HTTP (POST)
   - Format XML
+  - Example
+  ```xml
+  ```
 * REST - Representational State Transfer
   - Medium HTTP (POST,GET,PUT,DELETE,...)
   - Format XML/JSON/TEXT
