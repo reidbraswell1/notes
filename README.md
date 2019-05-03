@@ -7,6 +7,7 @@
 1. [Types of web services - SOAP/REST](#types)
 1. [Components of Web Services - WSDL, UDDI](#components)
 1. [SOAP Web Services](#soap)
+1. [REST Web Services](#rest)
 
 <hr/>
 
@@ -58,6 +59,8 @@
         - Complex Types
         - Routing
       * Body - Actual data of the request.
+
+#### <a id="rest">REST Web Services</a>
 
 
 [Back](../../tree/master)
