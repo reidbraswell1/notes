@@ -72,6 +72,14 @@
       * POST - Add
       * PUT - Update
       * DELETE - Delete
+    - Manipulation using Representations
+      * application/xml
+      * application/json
+      * text/html
+    - Descriptive Messages (how content should be handled)
+      * caching
+      * authentication
+      * etc
   - Stateless
   - Cacheable
   - Layered
