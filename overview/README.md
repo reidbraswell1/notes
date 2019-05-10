@@ -21,4 +21,5 @@
    * @RequestMapping on Method HttpServletRequest, HttpServletResponse
    * @Configuration (for a configuration class)
    * @ComponentScan({ "com.yourpackagename" }) (for a configuration class)
-* Web Initializer Class extends AbstractAnnotationConfigDispatcherServletInitializer
+* Annotation Based Configuration
+   * Web Initializer Class extends AbstractAnnotationConfigDispatcherServletInitializer
