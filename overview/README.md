@@ -14,4 +14,6 @@
    <url-pattern>/</url-pattern>
 </servlet-mapping>
 ```
+* XML Configuration file
+   * component-scan
 * Annotation @Controller
