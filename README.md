@@ -1,6 +1,6 @@
 # Spring
 
-[Overview](../overview/)
+[Overview](overview/)
 
 [Spring Modules](https://docs.spring.io/spring-framework/docs/3.0.0.RC3/spring-framework-reference/html/ch01s02.html)
 
