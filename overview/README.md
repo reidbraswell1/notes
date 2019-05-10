@@ -16,4 +16,6 @@
 ```
 * XML Configuration file
    * component-scan
-* Annotation @Controller
+* Annotations
+   * @Controller on Class
+   * @RequestMapping on Method HttpServletRequest, HttpServletResponse 
