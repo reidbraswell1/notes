@@ -3,9 +3,9 @@
 * Creational
   1. Singleton
   1. Factory
-    a. Interface
-    a. Classes implement Interface
-    a. Class (factory) that returns an object 
+      1. Interface
+      1. Classes implement Interface
+      1. Class (factory) that returns an object 
   1. Abstract Factory
   1. Builder
   1. Prototype
