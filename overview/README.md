@@ -22,4 +22,8 @@
    * @Configuration (for a configuration class)
    * @ComponentScan({ "com.yourpackagename" }) (for a configuration class)
 * Annotation Based Configuration
+   * Configuration Class uses @Controller Annotation
+      * InternalResourceViewResolver
+         * setPrefix
+         * setSuffix
    * Web Initializer Class extends AbstractAnnotationConfigDispatcherServletInitializer
