@@ -7,6 +7,13 @@
   1. Builder
   1. Prototype
 * Structural
+  1. Adapter
+  1. Composite
+  1. Proxy
+  1. Fly Weight
+  1. Facade
+  1. Bridge
+  1. Decorator
 * Behavioural
 
 1. [Singleton Design Pattern](singleton/README.md)
