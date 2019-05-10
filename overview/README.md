@@ -18,4 +18,7 @@
    * component-scan
 * Annotations
    * @Controller on Class
-   * @RequestMapping on Method HttpServletRequest, HttpServletResponse 
+   * @RequestMapping on Method HttpServletRequest, HttpServletResponse
+   * @Configuration (for a configuration class)
+   * @ComponentScan({ "com.yourpackagename" }) (for a configuration class)
+* Web Initializer Class extends AbstractAnnotationConfigDispatcherServletInitializer
