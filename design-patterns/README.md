@@ -1,6 +1,10 @@
 ### Java Design Patterns
 
 * Creational
+  * Singleton
+  * Factory
+  * Abstract Factory
+  * Prototype
 * Structural
 * Behavioural
 
