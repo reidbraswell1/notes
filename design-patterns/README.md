@@ -15,6 +15,17 @@
   1. Bridge
   1. Decorator
 * Behavioural
+  1. Template Method
+  1. Mediator
+  1. Chain of Responsibility
+  1. Observer
+  1. Strategy
+  1. Command
+  1. State
+  1. Visitor
+  1. Iterator
+  1. Interpreter
+  1. Memento
 
 1. [Singleton Design Pattern](singleton/README.md)
 1. [Factory Design Pattern](https://howtodoinjava.com/design-patterns/creational/implementing-factory-design-pattern-in-java/)
