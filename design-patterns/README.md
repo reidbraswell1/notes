@@ -1,5 +1,9 @@
 ### Java Design Patterns
 
+* Creational
+* Structural
+* Behavioural
+
 1. [Singleton Design Pattern](singleton/README.md)
 1. [Factory Design Pattern](https://howtodoinjava.com/design-patterns/creational/implementing-factory-design-pattern-in-java/)
 1. Decorator Design Pattern
