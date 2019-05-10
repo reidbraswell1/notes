@@ -4,9 +4,10 @@
 * Front Controller - Dispatcher Servlet (checks xml configuration file)
 ```web.xml
 <servlet>
-<servlet-class>
-   org.springframework.web.servlet.DispatcherServlet
-</servlet-class>
+   <servlet-name>yourservlet</servlet-name>
+   <servlet-class>
+      org.springframework.web.servlet.DispatcherServlet
+   </servlet-class>
 </servlet>
 ```
 * Annotation @Controller
