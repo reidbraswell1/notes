@@ -27,10 +27,10 @@
         {
             public OS getInstance(String os) {
                 if(os == "IOS") {
-                    return new Android();
+                    return new IOS();
                  }
                  else {
-                    return new IOS();
+                    return new Android();
                  }
             }
         }
