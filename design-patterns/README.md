@@ -25,7 +25,14 @@
         }
         class FactoryCentral
         {
-        
+            public OS getInstance(String os) {
+                if(os == "IOS") {
+                    return new Android();
+                 }
+                 else {
+                    return new IOS();
+                 }
+            }
         }
       ```
   1. Abstract Factory
