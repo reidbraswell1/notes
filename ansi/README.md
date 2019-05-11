@@ -28,3 +28,6 @@ WHERE condition;
 ```
 
 #### Delete
+```sql
+DELETE FROM table_name WHERE condition;
+```
