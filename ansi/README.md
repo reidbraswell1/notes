@@ -11,7 +11,7 @@ FROM table_name
 WHERE some_condition;
 
 -- Distinct works on a single column
-SELECT DISTINCT column1, column2, ...
+SELECT DISTINCT column
 FROM table_name; 
 ```
 #### Add
