@@ -10,6 +10,41 @@
   1. Builder
       1. Similar to Factory Builder Class is used to Construct the object without having to know all of the parameters.
       ```java
+      class PhoneBuilder
+      {
+          private String os = "IOS";
+          int battery = 3100;
+          
+          public PhoneBuilder setOs(String os) {
+              this.os = os;
+              return this;
+          }
+          
+          public PhoneBuilder setBattery(int battery) {
+              this.battery = battery;
+              return this;
+          }
+          
+          public Phone getPhone() {
+              return new Phone(os,battery);
+          }
+      }
+      class Phone
+      {
+          private String os;
+          private int battery;
+          
+          public Phone(String os, int battery) {
+              this.os = os;
+              this.battery = battery;
+          }
+      }
+      class Shop
+      {
+          public static void main(String[] args) {
+              Phone phone = new PhoneBuilder.setOs("Android").getPhone();
+          }
+      }
       ```
   1. Prototype
 * Structural
