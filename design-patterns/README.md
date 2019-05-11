@@ -2,6 +2,46 @@
 
 * Creational
   1. Singleton
+  ```java
+  class Singleton
+  {
+      private static Singleton singleton;
+    
+      private Singleton() {
+          System.out.println("Creating Singleton");
+      }
+    
+      public static Singleton getInstance() {
+          // Double Checked locking
+          if(singleton == null) {
+              // synchronized block
+              synchronized(Singleton.class) {
+                  if(singleton == null) {
+                      singleton = new Singleton();
+                  }
+              }
+          }
+          return singleton;
+      }
+  }
+  public class TestSingleton
+  {
+      public static void main(String[] args) {
+          Thread t1 = new Thread(new Runnable() {
+              public void run() {
+                  Singleton s1 = Singleton.getInstance();
+              }
+          });
+          Thread t2 = new Thread(new Runnable() {
+              public void run() {
+                  Singleton s2 = Singleton.getInstance();
+              }
+          });
+          t1.start();
+          t2.start();
+      }
+  }
+  ```
   1. Factory
       1. Interface
       1. Classes implement Interface
