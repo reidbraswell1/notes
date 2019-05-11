@@ -23,7 +23,7 @@
                 System.out.println("Better OS");
             }
         }
-        class FactoryCentral
+        class OSFactory
         {
             public OS getInstance(String os) {
                 if(os == "IOS") {
@@ -32,6 +32,13 @@
                  else {
                     return new IOS();
                  }
+            }
+        }
+        class FactoryMain 
+        {
+            public static void main(String[] args) {
+                OSFactory osf = new OSFactory();
+                OS os = osf.getInstance("Android");
             }
         }
       ```
