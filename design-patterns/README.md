@@ -38,6 +38,11 @@
               this.os = os;
               this.battery = battery;
           }
+          
+          @Override
+          public String toString() {
+              return "Phone [os=" + os + ", battery=" + battery;
+          }
       }
       class Shop
       {
