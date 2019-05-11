@@ -45,7 +45,8 @@
       ```
   1. Abstract Factory
   1. Builder
-      1. Similar to Factory - Builder Class is used to Construct the object without having to know all of the constructor parameters and parameters can be added in any order by setter chaining.
+      1. Class
+      1. Builder Class is used to Construct the object without having to know all of the constructor parameters. Setter chaining is used.
       ```java
       class PhoneBuilder
       {
