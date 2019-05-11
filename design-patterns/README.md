@@ -8,6 +8,7 @@
       1. Class (factory) that returns an object 
   1. Abstract Factory
   1. Builder
+      1. Similar to Factory Builder Class is used to Construct the object without having to know all of the parameters.
   1. Prototype
 * Structural
   1. Adapter
