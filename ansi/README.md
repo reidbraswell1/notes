@@ -9,6 +9,10 @@ WHERE some_condition;
 SELECT * 
 FROM table_name
 WHERE some_condition;
+
+-- Distinct works on a single column
+SELECT DISTINCT column1, column2, ...
+FROM table_name; 
 ```
 #### Add
 ```sql
