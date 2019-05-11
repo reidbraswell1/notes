@@ -5,7 +5,29 @@
   1. Factory
       1. Interface
       1. Classes implement Interface
-      1. Class (factory) that returns an object 
+      1. Class (factory) that returns an object
+      ```java
+        interface OS
+        {
+            void spec();
+        }
+        class Android implements OS
+        {
+            void spec() {
+                System.out.println("Good OS");
+            }
+        }
+        class IOS implements OS
+        {
+            void spec() {
+                System.out.println("Better OS");
+            }
+        }
+        class FactoryCentral
+        {
+        
+        }
+      ```
   1. Abstract Factory
   1. Builder
       1. Similar to Factory - Builder Class is used to Construct the object without having to know all of the constructor parameters and parameters can be added in any order by setter chaining.
