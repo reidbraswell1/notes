@@ -8,12 +8,13 @@
       1. Class (factory) that returns an object 
   1. Abstract Factory
   1. Builder
-      1. Similar to Factory - Builder Class is used to Construct the object without having to know all of the constructor parameters and parameters can be added in any order.
+      1. Similar to Factory - Builder Class is used to Construct the object without having to know all of the constructor parameters and parameters can be added in any order by setter chaining.
       ```java
       class PhoneBuilder
       {
           private String os = "IOS";
-          int battery = 3100;
+          private int battery = 3100;
+          private String color = "White";
           
           public PhoneBuilder setOs(String os) {
               this.os = os;
@@ -25,29 +26,36 @@
               return this;
           }
           
+          public PhoneBuilder setColor(String color) {
+              this.color = color;
+              return this;
+          }
+          
           public Phone getPhone() {
-              return new Phone(os,battery);
+              return new Phone(os,battery,color);
           }
       }
       class Phone
       {
           private String os;
           private int battery;
+          private String color;
           
-          public Phone(String os, int battery) {
+          public Phone(String os, int battery, String color) {
               this.os = os;
               this.battery = battery;
+              this.color = color;
           }
           
           @Override
           public String toString() {
-              return "Phone [os=" + os + ", battery=" + battery;
+              return "Phone [os=" + os + ", battery=" + battery + ", color=" + color + "]";
           }
       }
       class Shop
       {
           public static void main(String[] args) {
-              Phone phone = new PhoneBuilder.setOs("Android").getPhone();
+              Phone phone = new PhoneBuilder.setOs("Android").setColor("Blue").getPhone();
           }
       }
       ```
