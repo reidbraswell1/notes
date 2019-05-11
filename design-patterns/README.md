@@ -24,6 +24,17 @@
           return singleton;
       }
   }
+  enum Singleton2
+  {
+      INSTANCE;
+      int i;
+  
+      // Default private constructor
+      
+      public void show() {
+          System.out.println(i);
+      }
+  }
   public class TestSingleton
   {
       public static void main(String[] args) {
