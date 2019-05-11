@@ -39,6 +39,16 @@
           });
           t1.start();
           t2.start();
+          
+        // Using enum
+        Singleton2 s3 = Singleton2.INSTANCE;
+        s3.i = 5;
+        s3.show();
+        
+        // Only 1 instance exists
+        Singleton2 s4 = Singleton2.INSTANCE;
+        s4.i = 6;
+        s3.show();
       }
   }
   ```
