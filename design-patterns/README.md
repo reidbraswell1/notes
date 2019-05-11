@@ -48,6 +48,23 @@
       1. Class
       1. Builder Class is used to Construct the object without having to know all of the constructor parameters. Setter chaining is used.
       ```java
+      class Phone
+      {
+          private String os;
+          private int battery;
+          private String color;
+          
+          public Phone(String os, int battery, String color) {
+              this.os = os;
+              this.battery = battery;
+              this.color = color;
+          }
+          
+          @Override
+          public String toString() {
+              return "Phone [os=" + os + ", battery=" + battery + ", color=" + color + "]";
+          }
+      }
       class PhoneBuilder
       {
           private String os = "IOS";
@@ -71,23 +88,6 @@
           
           public Phone getPhone() {
               return new Phone(os,battery,color);
-          }
-      }
-      class Phone
-      {
-          private String os;
-          private int battery;
-          private String color;
-          
-          public Phone(String os, int battery, String color) {
-              this.os = os;
-              this.battery = battery;
-              this.color = color;
-          }
-          
-          @Override
-          public String toString() {
-              return "Phone [os=" + os + ", battery=" + battery + ", color=" + color + "]";
           }
       }
       public class Shop
