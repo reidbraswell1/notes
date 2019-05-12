@@ -5,7 +5,7 @@
   ```java
   class Singleton
   {
-      private static volitile Singleton singleton;
+      private static volatile Singleton singleton;
     
       private Singleton() {
           System.out.println("Creating Singleton");
