@@ -8,6 +8,10 @@
   c = calendar.TextCalendar(calendar.SUNDAY)
   str = c.formatmonth(2019,5)
   print(str)
+  
+  # Alternate Method
+  calendar.setfirstweekday(calendar.SUNDAY)
+  print(calendar.month(2019,5))
 ```
 ```
       May 2019
