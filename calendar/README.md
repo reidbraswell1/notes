@@ -25,7 +25,7 @@ Su Mo Tu We Th Fr Sa
 ### HTML Calendar
 
 ```python
-  imoort calendar
+  import calendar
   
   hc = calendar.HTMLCalendar(calendar.SUNDAY)
   str = hc.formatmonth(2019,5)
