@@ -1,5 +1,5 @@
 [calendar Doc](https://docs.python.org/3/library/calendar.html)
-<a href="https://docs.python.org/3/library/calendar.html" rel="noopener noreferrer">calendar Doc</a>
+<a href="https://docs.python.org/3/library/calendar.html" target="_blank" rel="noopener noreferrer">calendar Doc</a>
 <br/>
 [datetime Doc](https://docs.python.org/3.7/library/datetime.html)
 
