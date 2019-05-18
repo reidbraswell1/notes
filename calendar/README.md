@@ -1,4 +1,5 @@
-[calendar Doc](https://docs.python.org/3/library/calendar.html)<br/>
+[calendar Doc](https://docs.python.org/3/library/calendar.html)
+<br/>
 [datetime Doc](https://docs.python.org/3.7/library/datetime.html)
 
 ### Text Calendars
