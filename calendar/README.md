@@ -1,7 +1,7 @@
 [calendar Doc](https://docs.python.org/3/library/calendar.html)
 <br/>
 [datetime Doc](https://docs.python.org/3.7/library/datetime.html)
-<p aligh="center">test</p>
+<p align="center">test</p>
 
 ### Text Calendars
 
