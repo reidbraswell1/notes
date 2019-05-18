@@ -4,14 +4,19 @@
 
 ```python
   import calendar
+  import datetime
+  
+  today = datetime.datetime.today()
+  year = today.year
+  month = today.month
   
   c = calendar.TextCalendar(calendar.SUNDAY)
-  str = c.formatmonth(2019,5)
+  str = c.formatmonth(year,month)
   print(str)
   
   # Alternate Method
   calendar.setfirstweekday(calendar.SUNDAY)
-  print(calendar.month(2019,5))
+  print(calendar.month(year,month))
 ```
 ```
       May 2019
@@ -26,9 +31,14 @@ Su Mo Tu We Th Fr Sa
 
 ```python
   import calendar
+  import datetime
+  
+  today = datetime.datetime.today()
+  year = today.year
+  month = today.month
   
   hc = calendar.HTMLCalendar(calendar.SUNDAY)
-  str = hc.formatmonth(2019,5)
+  str = hc.formatmonth(year,month)
   print(str)
 ```
 ```html
