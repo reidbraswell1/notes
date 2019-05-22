@@ -4,10 +4,10 @@ __HTML__  - Hypertext Markup Language
 * __Hypertext__ - Text displayed on electronic devices with references to other text that a reader can immediately access.
 * __Markup Language__ - Uses tags to define the elements in the document.
 
-##### Basic Elements
+#### Basic Elements
 
 __Tags Opening and Closing HTML Tags Example__
-* __\<p class="bar">Some Text\<p\>
+* __\<p class="bar"\>Some Text\<p\>__
 * __class__ attribute for the html tag \<p\>
 
 __\<head\>__ - Container for other head elements.
