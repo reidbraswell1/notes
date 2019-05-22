@@ -6,6 +6,10 @@ __HTML__  - Hypertext Markup Language
 
 ##### Basic Elements
 
+__Tags Opening and Closing HTML Tags Example__
+* __\<p class="bar">Some Text\<p\>
+* __class__ attribute for the html tag \<p\>
+
 __\<head\>__ - Container for other head elements.
 * __\<title\>__ (required element)
 * __\<style\>__
