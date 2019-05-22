@@ -6,12 +6,12 @@ __HTML__  - Hypertext Markup Language
 
 ##### Basic Elements
 
-__<head>__ - Container for other head elements.
-* __<title>__ (required element)
-* __<style>__
-* __<base>__
-* __<link>__
-* __<meta>__
-* __<script>__
-* __<noscript>__
+__\<head\>__ - Container for other head elements.
+* __\<title\>__ (required element)
+* __\<style\>__
+* __\<base\>__
+* __\<link\>__
+* __\<meta\>__
+* __\<script\>__
+* __\<noscript\>__
 
