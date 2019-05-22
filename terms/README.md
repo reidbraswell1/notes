@@ -15,3 +15,8 @@ __\<head\>__ - Container for other head elements.
 * __\<script\>__
 * __\<noscript\>__
 
+__\<body\>__ - Container for other elements whose content is to be rendered on the screen.
+* __\<h1\> - \<h6\>__ (heading elements)
+* __\<p\>__ (paragraph element)
+* ...
+
