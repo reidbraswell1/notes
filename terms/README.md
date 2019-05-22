@@ -2,7 +2,7 @@
 
 __HTML__  - Hypertext Markup Language
 * __Hypertext__ - Text displayed on electronic devices with references to other text that a reader can immediately access.
-* __Markup Languate__ - Uses tags to define the elements in the document.
+* __Markup Language__ - Uses tags to define the elements in the document.
 
 ##### Basic Elements
 
