@@ -6,7 +6,7 @@ __HTML__  - Hypertext Markup Language
 
 #### Basic Elements
 
-__Tags Opening and Closing HTML Tags Example__
+__HTML Opening and Closing Tags Example__
 
 <kbd><img src="htmlTag.png" /></kbd>
 
