@@ -8,7 +8,7 @@ __HTML__  - Hypertext Markup Language
 
 __Tags Opening and Closing HTML Tags Example__
 
-[htmlTag]: htmlTag.png
+![htmlTag][htmlTag.png]
 
 __\<head\>__ - Container for other head elements.
 * __\<title\>__ (required element)
