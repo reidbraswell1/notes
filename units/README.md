@@ -13,8 +13,8 @@
 
 |Unit|Description|
 | ---| --- |
-|em|Relative to font-size<br>No CSS 1em = 16px = 0.17in = 12pt = 1pc = 4.2mm = 0.42cm<br>With CSS 1em becomes the font-size value |
-|ex|Relative to x-height of current font.<br>Changes as the font family changes|
+|__em__|Relative to font-size<br>No CSS 1em = 16px = 0.17in = 12pt = 1pc = 4.2mm = 0.42cm<br>With CSS 1em becomes the font-size value 
+|__ex__|Relative to x-height of current font.<br>Changes as the font family changes|
 |ch|Releative to width of "0" character.<br>Changes as the font family changes| 	
 |rem|Relative to font-size of root element| 	
 |vw|1vw = 1% of viewport width| 	
