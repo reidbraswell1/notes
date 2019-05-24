@@ -13,4 +13,4 @@
 
 |Unit|Description|
 | ---| --- |
-|em|Relative to font-size<br>No css 1em = 16px = 0.17in = 12pt = 1pc = 4.2mm = 0.42cm |
+|em|Relative to font-size<br>No CSS 1em = 16px = 0.17in = 12pt = 1pc = 4.2mm = 0.42cm<br>With CSS 1em becomes the font-size value |
