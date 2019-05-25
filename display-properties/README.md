@@ -1,4 +1,4 @@
-### block, inline, inline-block [Example](https://codepen.io/heptode/full/arGoVB)
+### block, inline, inline-block [Examples](https://codepen.io/heptode/full/arGoVB)
 
 - **block** - starts on a new line and fills the horizontal space on both the left and right of the web page. Margins and padding can be added on all 4 sides. Examples:
   
