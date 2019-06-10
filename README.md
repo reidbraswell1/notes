@@ -12,6 +12,8 @@
 1. Maven for Java
 1. NuGet Package Manager
 1. Vim emulation for Visual Studio Code
+1. Live Server
+1. ES7 React/Redux/GraphQL/React-Native snippets 
 
 [Back](../../tree/master)
 
