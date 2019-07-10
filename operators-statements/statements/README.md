@@ -98,7 +98,12 @@ for(init1, init2, ... ,initN; booleanExpression; update1, update2, ... ,updateN)
 // alternate 2
 for(;booleanExpression;) {
     // body
-}   
+}
+
+// alternate 3
+for(;;) {
+    // endless loop
+}
 ```
 <hr/>
 
