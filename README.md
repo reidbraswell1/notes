@@ -62,6 +62,9 @@
     - ArrayList Methods
     - Wrapper Classes With ArrayList
     - ArrayList And Array Conversion
+    - ArrayList Sorting
+    - ArrayList Searching
+    - ArrayList Iterating
     
 
 [Back](../../tree/master)
