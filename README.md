@@ -10,7 +10,7 @@
 
 1. Java Basics
     - Class Structure
-    - [Main Method](main-method/README.md)
+    - [Main Method](java-basics/main-method/README.md)
     - Comments
     - Static Imports
     - Decimal Numeric Primitives
