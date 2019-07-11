@@ -38,6 +38,7 @@
     - Switch Statement
     - While Loop
     - Do While Loop
+    - For Loop
 1. Strings
     - String Creation and Concatenation
     - Immutability
@@ -46,6 +47,17 @@
     - Method Chaining
     - StringBuilder
     - Understanding Equality
+1. Arrays
+    - Understanding and Using Arrays
+    - For Each Loop
+    - Break Statement and Labels
+    - Continue Statement
+    - Sorting Arrays
+    - Searching Arrays
+    - Variable Arguments
+    - Multidimensional Arrays
+    - Nested Loops
+1. ArrayList
     
 
 [Back](../../tree/master)
