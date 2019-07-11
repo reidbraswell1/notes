@@ -24,6 +24,14 @@
     - Primitive Wrapper Types
 1.  Operators
     - Arithmetic Operators
+    - Numeric Promotion and Casting
+    - Unary Operators
+    - Assignment Operators
+    - Relational Operators
+    - Conditional Operators
+    - Equality Operators
+    - Understanding == and equals() Method
+    - Character Arithmetic
     
 
 [Back](../../tree/master)
