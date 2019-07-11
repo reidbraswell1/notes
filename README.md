@@ -15,5 +15,9 @@
     - Static Imports
     - Decimal Numeric Primitives
     - Whole Numeric Primitives
+    - Primitive char and boolean
+    - Declaring and initializing variables
+    - Understanding Default Initialization of Primitives
+    
 
 [Back](../../tree/master)
