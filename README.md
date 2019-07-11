@@ -18,6 +18,7 @@
     - Primitive char and boolean
     - Declaring and initializing variables
     - Understanding Default Initialization of Primitives
+    - Variable Scope
     
 
 [Back](../../tree/master)
