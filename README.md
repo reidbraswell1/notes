@@ -32,6 +32,12 @@
     - Equality Operators
     - Understanding == and equals() Method
     - Character Arithmetic
+1. Basic Control Flow
+    - If Else
+    - Ternary Operator
+    - Switch Statement
+    - While Loop
+    - Do While Loop
     
 
 [Back](../../tree/master)
