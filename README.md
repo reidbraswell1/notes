@@ -65,7 +65,7 @@
     - ArrayList Sorting
     - ArrayList Searching
     - ArrayList Iterating
-1. Method
+1. Methods
     
 
 [Back](../../tree/master)
