@@ -38,6 +38,14 @@
     - Switch Statement
     - While Loop
     - Do While Loop
+1. Strings
+    - String Creation and Concatenation
+    - Immutability
+    - String Pool and String Equality
+    - String Methods
+    - Method Chaining
+    - StringBuilder
+    - Understanding Equality
     
 
 [Back](../../tree/master)
