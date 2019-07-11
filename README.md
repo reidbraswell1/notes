@@ -9,6 +9,11 @@
 <hr/>
 
 1. Java Basics
-    * Class Structure
+    - Class Structure
+    - Main Method
+    - Comments
+    - Static Imports
+    - Decimal Numeric Primitives
+    - Whole Numeric Primitives
 
 [Back](../../tree/master)
