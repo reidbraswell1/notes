@@ -9,6 +9,6 @@
 <hr/>
 
 1. Java Basics
-  * Class Structure
+ 1. Class Structure
 
 [Back](../../tree/master)
