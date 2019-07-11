@@ -66,6 +66,7 @@
     - ArrayList Searching
     - ArrayList Iterating
 1. Methods
+    - Designing Methods
     
 
 [Back](../../tree/master)
