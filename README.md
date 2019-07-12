@@ -33,9 +33,9 @@
     - Understanding == and equals() Method
     - Character Arithmetic
 1. Basic Control Flow
-    - If Else
+    - [If Else](operators-statements/statements/)
     - Ternary Operator
-    - Switch Statement
+    - [Switch Statement](operators-statements/statements/)
     - [While Loop](operators-statements/statements/)
     - [Do While Loop](operators-statements/statements/)
     - [For Loop](operators-statements/statements/)
