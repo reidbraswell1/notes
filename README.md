@@ -11,7 +11,7 @@
 1. Java Basics
     - Class Structure
     - [Main Method](java-basics/main-method/README.md)
-    - [Comments](java-basics/comments/README.md)
+    - [Comments](java-basics/class-structure/comments/README.md)
     - Static Imports
     - Decimal Numeric Primitives
     - Whole Numeric Primitives
