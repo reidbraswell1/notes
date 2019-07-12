@@ -38,7 +38,7 @@
     - Switch Statement
     - While Loop
     - Do While Loop
-    - For Loop
+    - [For Loop](operators-statements/statements/for/README.md)
 1. Strings
     - String Creation and Concatenation
     - Immutability
