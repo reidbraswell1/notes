@@ -36,8 +36,8 @@
     - If Else
     - Ternary Operator
     - Switch Statement
-    - While Loop
-    - Do While Loop
+    - [While Loop](operators-statements/statements/)
+    - [Do While Loop](operators-statements/statements/)
     - [For Loop](operators-statements/statements/)
 1. Strings
     - String Creation and Concatenation
