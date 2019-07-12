@@ -34,7 +34,7 @@
     - Character Arithmetic
 1. Basic Control Flow
     - [If Else](operators-statements/statements/)
-    - Ternary Operator
+    - [Ternary Operator](operators-statements/operators/)
     - [Switch Statement](operators-statements/statements/)
     - [While Loop](operators-statements/statements/)
     - [Do While Loop](operators-statements/statements/)
