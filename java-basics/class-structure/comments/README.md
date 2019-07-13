@@ -25,7 +25,7 @@
   * /* comment */
   */
 ```
-#### Multi line comment using unicode \u002F is unicode for / and \u002A is unicode for *
+#### Multi line comment using unicode \u002F = / and \u002A = * \u000D = CR and \u000A = LF
 ```java
 \u002F\u002F Single Line Comment
 \u002F\u002A
