@@ -25,3 +25,11 @@
   * /* comment */
   */
 ```
+#### Multi line comment using unicode \u002F 
+```java
+\u002F\u002F Single Line Comment
+\u002F\u002A
+    Multi Line Comments
+    Multi Line Comments
+\u002A\u002F
+```
