@@ -28,7 +28,13 @@
     }
     ```
     - [Comments](java-basics/class-structure/comments/#for)
-    - [Static Imports](java-basics/package-imports/#static-imports)
+    - Static Imports
+    ```java
+    // Note the name of the field(Property) must come after the class or a * wildcard to import all fields
+    import static java.lang.Math.PI;
+    import static java.lang.Math.min;
+    import static java.lang.System.out;
+    ```
     - Decimal Numeric Primitives
     ```java
         float myNumber = 25.4F;
