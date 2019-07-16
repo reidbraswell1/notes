@@ -16,6 +16,24 @@
     - Decimal Numeric Primitives
     - Whole Numeric Primitives
     ```java
+        long max = 32_123_456_789L;
+        long n = 2_300;
+
+        // octal (0-7)
+        int oct = 07;
+        int firstOct = 010; // 8 decimal
+        int secondOct = 022; // 18 decimal
+        
+        // hexadecimal (0-9 and A-F)
+        int firstHex = 0xF; // 15 decimal
+        int secondHex = 0x1E; // 30 decimal
+        
+        // binary
+        int firstBin = 0b1001; // 9 decimal
+        int secondBin = 0b0111; // 7 decimal
+        
+        // int thirdBin = 0b2; // Won't compile
+    }
     ```
     - Primitive char and boolean
     - Declaring and initializing variables
