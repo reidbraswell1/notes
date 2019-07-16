@@ -34,6 +34,7 @@
     import static java.lang.Math.PI;
     import static java.lang.Math.min;
     import static java.lang.System.out;
+    import static java.lang.Byte.*; // Imports all fields in the Byte class
     ```
     - Decimal Numeric Primitives
     ```java
