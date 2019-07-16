@@ -138,6 +138,16 @@
         // double public; // public reserved modifier
     ```
     - Understanding Default Initialization of Primitives
+    ```java
+    static boolean myBoolean;  // false
+    static byte myByte; // 0
+    static short myShort; // 0
+    static int myInt; // 0
+    static long myLong; // 0
+    static float myFloat; // 0.0
+    static double myDouble; // 0.0
+    static char myChar;  // 0 
+    ```
     - Variable Scope
     - Ordering Elements In Class
     - Understanding Null
