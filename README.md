@@ -56,6 +56,18 @@
         // int thirdBin = 0b2; // Won't compile
     ```
     - Primitive char and boolean
+    ```java
+        char ch = 'a';
+
+        // char ch1 = 'ab'; // Won't compile
+        char ch1 = '1';
+        char ch2 = 49; // Ascii decimal for 1
+        char uniChar = '\u03A9'; // upper case greek omega character
+        char romanNumber = '\u216C'; // roman 50 number
+        
+        boolean myBoolean = true;
+        boolean myFalseBoolean = false;
+    ```
     - Declaring and initializing variables
     - Understanding Default Initialization of Primitives
     - Variable Scope
