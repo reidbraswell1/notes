@@ -12,7 +12,7 @@
     - Class Structure
     - [Main Method](java-basics/main-method/README.md)
     - [Comments](java-basics/class-structure/comments/#for)
-    - [Static Imports](java-basics/package-imports/)
+    - [Static Imports](java-basics/package-imports/#static-imports)
     - Decimal Numeric Primitives
     - Whole Numeric Primitives
     - Primitive char and boolean
