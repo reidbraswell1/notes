@@ -33,7 +33,6 @@
         int secondBin = 0b0111; // 7 decimal
         
         // int thirdBin = 0b2; // Won't compile
-    }
     ```
     - Primitive char and boolean
     - Declaring and initializing variables
