@@ -92,6 +92,51 @@
         boolean myFalseBoolean = false;
     ```
     - Declaring and initializing variables
+    ```java
+        // declaring and initializing in two lines
+        int myNumber; // declaration
+        // System.out.println("myNumber= " + myNumber);  // Won't compile myNumber may not have been declared
+        myNumber = 10; // initialization
+        
+        // one line
+        double myDouble = 7.50;
+
+        // Have not been initialized yet
+        float myFloat1, myFloat2, myFloat3;
+        float myFloat4;
+        float myFloat5;
+
+        // Initializing myFloat6 myFloat7 but myFloat8 is not initialized only declared
+        float myFloat6 = 5f, myFloat7 = 10f, myFloat8;
+        
+        // Declared but no value
+        boolean b1, b2;
+
+        // double d1, double d2; // does not compile
+        double d1, d2; // does compile
+
+        int i1;
+        int i2;
+        // int i3; i4; // does not compile
+        int i3, i4; // does compile
+
+        // int int = 10; // does not compile reserved word
+        // cHaR and CHar are not reserved words so they are valid variables
+        char cHaR;
+        char Char;
+
+        float okFloat;
+        double $Ok2Double1;
+        double _alsoDouble;
+        float __OkButNotNice$_123;
+
+        // illegal examples
+        // double 3point; // may not begin with a number
+        // double my@street; // no special characters @
+        // float *$coffee; // no special characters * may begin with $ or _
+        // float double; // double reserved word
+        // double public; // public reserved modifier
+    ```
     - Understanding Default Initialization of Primitives
     - Variable Scope
     - Ordering Elements In Class
