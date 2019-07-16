@@ -15,6 +15,8 @@
     - [Static Imports](java-basics/package-imports/#static-imports)
     - Decimal Numeric Primitives
     - Whole Numeric Primitives
+    ```java
+    ```
     - Primitive char and boolean
     - Declaring and initializing variables
     - Understanding Default Initialization of Primitives
