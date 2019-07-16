@@ -16,6 +16,9 @@
     - Decimal Numeric Primitives
     - Whole Numeric Primitives
     ```java
+        byte myByte = 127;
+        short myShort = 25; 
+        
         long max = 32_123_456_789L;
         long n = 2_300;
 
