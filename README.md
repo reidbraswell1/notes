@@ -10,7 +10,20 @@
 
 1. Java Basics
     - Class Structure
-    - [Main Method](java-basics/main-method/README.md)
+    - Main Method
+    ```java
+    // Bracket may be after the String[] or after the variable args[]
+    // Most widely used is String[]
+    public static void main(String[] args) {
+    }
+    public static void main(String args[]) {
+    }
+    // Var args Representation
+    public static void main(String... args) {
+    }
+    public static void main(String ...args) {
+    }
+    ```
     - [Comments](java-basics/class-structure/comments/#for)
     - [Static Imports](java-basics/package-imports/#static-imports)
     - Decimal Numeric Primitives
