@@ -23,6 +23,9 @@
     }
     public static void main(String ...args) {
     }
+    // Will compile but not run main method must be public
+    private static void main(String[] args) {
+    }
     ```
     - [Comments](java-basics/class-structure/comments/#for)
     - [Static Imports](java-basics/package-imports/#static-imports)
