@@ -152,6 +152,55 @@
     - Ordering Elements In Class
     - Understanding Null
     - Primitive Wrapper Types
+    ```java
+        boolean myBoolean = false;
+        Boolean myBoolean1 = true; // autoboxing primitive to wrapper type
+        Boolean myBoolean2 = Boolean.valueOf(false); // boxing primitive to wrapper type
+        Boolean myBoolean3 = Boolean.parseBoolean("true");
+        Boolean myBoolean4 = null;
+
+        char myChar = 'a';
+        Character myCharacter1 = 'b'; // autoboxing primitive to wrapper type
+        Character myCharacter2 = Character.valueOf('c'); // boxing primitive to wrapper type
+
+        byte myByte = 10;
+        Byte myByte1 = 20; // autoboxing primitive to wrapper type
+        Byte myByte2 = Byte.valueOf((byte)30); // boxing primitive to wrapper type
+        Byte myByte3 = Byte.parseByte("40");
+        Byte myByte4 = null;
+
+        short myShort = 10;
+        Short myShort1 = 20; // autoboxing primitive to wrapper type
+        Short myShort2 = Short.valueOf((short)30); // boxing primitive to wrapper type
+        Short myShort3 = Short.parseShort("40");
+        Short myShort4 = null;
+
+        int myInt = 10;
+        Integer myInteger = 20; // autoboxing primitive to wrapper type
+        Integer myInteger2 = 30; // autoboxing primitive to wrapper type
+        Integer myInteger3 = Integer.valueOf(30); // boxing primitive to wrapper type
+        Integer myInteger4 = Integer.parseInt("40");
+        Integer myInteger5 = null;
+        // int myInt2 = null;
+
+        long myLong = 10;
+        Long myLong1 = 20L; // autoboxing primitive to wrapper type
+        Long myLong2 = Long.valueOf(30L); // boxing primitive to wrapper type
+        Long myLong3 = Long.parseLong("40");
+        Long myLong4 = null;
+
+        float myFloat = 10.0F;
+        Float myFloat1 = 20.0F; // autoboxing primitive to wrapper type
+        Float myFloat2 = Float.valueOf(30.0F); // boxing primitive to wrapper type
+        Float myFloat3 = Float.parseFloat("40");
+        Float myFloat4 = null;
+
+        double myDouble = 10.0;
+        Double myDouble1 = 20.0; // autoboxing primitive to wrapper type
+        Double myDouble2 = Double.valueOf(30.0); // boxing primitive to wrapper type
+        Double myDouble3 = Double.parseDouble("40.0");
+        Double myDouble4 = null;
+    ```
 1.  Operators
     - Arithmetic Operators
     - Numeric Promotion and Casting
