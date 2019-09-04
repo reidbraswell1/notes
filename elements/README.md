@@ -30,15 +30,15 @@
 |&lt;colgroup&gt;|colgroup|[&lt;colgroup&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup)|
 |&lt;data&gt;|data|[&lt;data&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/data)|
 |&lt;datalist&gt;|datalist|[&lt;datalist&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)|
-|&lt;dd&gt;|Description list description value|[&lt;dd&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)|
+| **&lt;dd&gt;** |Description list description value|[&lt;dd&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)|
 |&lt;del&gt;|del|[&lt;del&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del)|
 |&lt;details&gt;|details|[&lt;details&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)|
 |&lt;dfn&gt;|dfn|[&lt;dfn&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dfn)|
 |&lt;dialog&gt;|dialog|[&lt;dialog&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dilog)|
 |&lt;dir&gt;|Obsolete  in HTML5. Use &lt;ul&gt; instead.|[&lt;dir&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dir)|
 | **&lt;div&gt;** |Generic Container|[&lt;div&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)|
-|&lt;dl&gt;|Description list|[&lt;dl&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)|
-|&lt;dt&gt;|term/name in description list|[&lt;dt&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt)|
+| **&lt;dl&gt;** |Description list|[&lt;dl&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)|
+| **&lt;dt&gt;** |term/name in description list|[&lt;dt&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt)|
 |&lt;em&gt;|em|[&lt;em&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)|
 |&lt;embed&gt;|embed|[&lt;embed&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed)|
 |&lt;fieldset&gt;|fieldset|[&lt;fieldset&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset)|
