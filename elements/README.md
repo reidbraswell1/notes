@@ -1,7 +1,7 @@
 |Element Name|Element Description|Reference|
 | --- | --- | --- |
 |&lt;!--...--&gt;| Comment |[Comment](https://developer.mozilla.org/en-US/docs/Web/API/Comment)|
-| ** &lt;!DOCTYPE&gt; ** | Document type |[DOCTYPE!](https://developer.mozilla.org/en-US/docs/Glossary/Doctype)|
+| **&lt;!DOCTYPE&gt;** | Document type |[DOCTYPE!](https://developer.mozilla.org/en-US/docs/Glossary/Doctype)|
 | ** &lt;a&gt; ** | Hyperlink |[&lt;a&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)|
 |&lt;abbr&gt;| Abbreviation or an acronym |[&lt;abbr&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)|
 |&lt;acronym&gt;|Obsolete  in HTML5. Use &lt;abbr&gt; instead.|[&lt;acronym&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/acronym)|
