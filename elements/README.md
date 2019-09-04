@@ -54,7 +54,7 @@
 | **&lt;header&gt;** |header|[&lt;header&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)|
 | **&lt;hr&gt;** |Horizontal Rule|[&lt;hr&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)|
 | **&lt;html&gt;** | Root of an HTML document|[&lt;html&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)|
-|&lt;i&gt;|italics|[&lt;i&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)|
+| **&lt;i&gt;** |italics|[&lt;i&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)|
 |&lt;iframe&gt;|Inline frame|[&lt;iframe&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)|
 | **&lt;img&gt;** |Image|[&lt;img&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/image)|
 | **&lt;input&gt;** |Input control|[&lt;input&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)|
