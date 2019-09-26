@@ -21,6 +21,18 @@ python manage.py startapp your-app
 # Linux with python 2 and python3 installed
 python3 manage.py startapp your-app
 ```
+```shell
+# Directory structure
+your-app/
+    __init__.py
+    admin.py
+    apps.py
+    migrations/
+        __init__.py
+    models.py
+    tests.py
+    views.py
+```
 3. Run server: 
 ```python
 python manage.py runserver
