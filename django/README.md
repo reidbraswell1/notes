@@ -1,5 +1,6 @@
-1. Create new website 
+1. Create new project
 ```python
+# Will create directory "your-website-name"
 django-admin startproject your-website-name
 ```
 1. Run server: 
