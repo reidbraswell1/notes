@@ -3,7 +3,25 @@
 # Will create directory "your-website-name"
 django-admin startproject your-website-name
 ```
-1. Run server: 
+```shell
+# Directory structure
+website/
+    manage.py
+    website/
+        __init__.py
+        settings.py
+        urls.py
+        wsgi.py
+```
+2. Create a new app
+```python
+# Will create directory "your-app" in your project directory
+python manage.py startapp your-app
+
+# Linux with python 2 and python3 installed
+python3 manage.py startapp your-app
+```
+3. Run server: 
 ```python
 python manage.py runserver
 
