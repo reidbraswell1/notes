@@ -1,2 +1,2 @@
 1. Run server: 
-```python manage.py runserver```
+```python python manage.py runserver```
