@@ -6,7 +6,7 @@
 1. Spring Boot Tools
 1. Thymeleaf
 
-
+### Creating the application
 1. Open the command palette (Ctrl + Shift + P) and Type Spring Initializr to start generating a Maven or Gradle project.
 1. Choose __Maven__ or Gradle.
 1. Choose Project Language (Java)
