@@ -36,9 +36,10 @@ public class HelloWorldController {
     }
 }
 ```
+1. Run the application (F5).
 
 ### Additional Documentation and Examples:
 1. [External Website Documentation](https://medium.com/programming-is-hard/creating-a-hello-world-spring-boot-app-using-vs-code-f59b1e2e95d)
-1. [Visual Studio Code](https://code.visualstudio.com/docs/java/java-spring-boot) 
+1. [Visual Studio Code](https://code.visualstudio.com/docs/java/java-spring-boot)
 
 [Back](../../tree/spring-boot)
