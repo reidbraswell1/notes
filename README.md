@@ -31,10 +31,14 @@ public class HelloWorldController {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     @ResponseBody
-    public String helloworldRoot(Model model) {
+    public String helloworld() {
         return "<h1>Hello Spring World</h1>";
     }
 }
 ```
+
+### Additional Documentation and Examples:
+1. [External Website Documentation](https://medium.com/programming-is-hard/creating-a-hello-world-spring-boot-app-using-vs-code-f59b1e2e95d)
+1. [Visual Studio Code](https://code.visualstudio.com/docs/java/java-spring-boot) 
 
 [Back](../../tree/spring-boot)
