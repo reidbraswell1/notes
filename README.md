@@ -1,6 +1,6 @@
 # Notes
 
-1. [AWS#](../../tree/aws)
+1. [AWS](../../tree/aws)
 1. [C#](../../tree/c%23/)
 1. [Python](../../tree/python)
 1. [Dev Docs](https://devdocs.io)
